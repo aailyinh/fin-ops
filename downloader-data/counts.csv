@@ -1,0 +1,318 @@
+,name,ticker,count
+0,Advantest,ATEYY,253
+175,Nikon,NINOY,253
+185,Nippon Telegraph and Telephone,NTTYY,253
+77,Hitachi,HTHIY,253
+188,Nissan Motor,NSANY,253
+190,Nitori Holdings,NCLTY,253
+191,Nitto Denko,NDEKY,253
+198,Olympus,OCPNY,253
+199,OMRON,OMRNY,253
+200,ONO Pharmaceutical,OPHLY,253
+204,Otsuka,OTSKY,253
+205,Pan Pacific International Holdings,DQJCY,253
+206,Panasonic,PCRFY,253
+209,Rakuten,RKUNY,253
+210,Recruit Holdings,RCRUY,253
+211,Renesas Electronics Corporation,RNECY,253
+215,Ryohin Keikaku,RYKKY,253
+63,Fujitsu,FJTSY,253
+217,Santen Pharmaceutical,SNPHY,253
+61,FUJIFILM,FUJIY,253
+218,SECOM,SOMLY,253
+220,Seiko Epson,SEKEY,253
+222,Sekisui House,SKHSY,253
+56,Fast Retailing,FRCOY,253
+114,KAO,KAOOY,253
+176,Nintendo,NTDOY,253
+172,Nidec,NJDCY,253
+227,Sharp,SHCAY,253
+168,Nexon,NEXOY,253
+117,KDDI Corporation,KDDIY,253
+122,Kirin Brewery,KNBWY,253
+124,Komatsu,KMTUY,253
+127,Kose Corporation,KSRYY,253
+104,JAPAN TOBACCO,JAPAY,253
+128,Kubota,KUBTY,253
+136,M3,MTHRY,253
+138,Makita,MKTAY,253
+139,Marubeni,MARUY,253
+140,Marui Group,MAURY,253
+142,Mazda Motor,MZDAY,253
+97,Japan Exchange,JPXGY,253
+146,Mercari,MCARY,253
+94,Japan Airlines,JAPSY,253
+151,Mitsubishi Electric,MIELY,253
+92,Itochu,ITOCY,253
+91,Isuzu Motors,ISUZY,253
+152,Mitsubishi Estate,MITEY,253
+154,Mitsui,MITSY,253
+162,MonotaRO,MONOY,253
+163,MS&AD Insurance,MSADY,253
+164,Murata Manufacturing,MRAAY,253
+84,Hoya,HOCPY,253
+224,Seven & I Holdings,SVNDY,253
+55,Fanuc Corporation,FANUY,253
+229,Shimano Inc,SMNNY,253
+277,Tokyo Electron,TOELY,253
+27,Chugai Pharmaceutical,CHGCY,253
+231,Shin-Etsu Chemical,SHECY,253
+267,TechnoPro Holdings,TCCPY,253
+24,Central Japan Rail,CJPRY,253
+22,Capcom,CCOEY,253
+269,Terumo,TRUMY,253
+270,THK CO.,THKLY,253
+19,Bridgestone,BRDCY,253
+274,Tokio Marine,TKOMY,253
+16,Astellas Pharma,ALPMY,253
+258,Suzuki Motor,SZKMY,253
+14,Asahi Kasei,AHKSY,253
+284,Toray Industries,TRYIY,253
+285,TOSHIBA,TOSYY,253
+296,Trend Micro,TMICY,253
+300,Unicharm,UNICY,253
+304,West Japan Railway,WJRYY,253
+306,Yamaha,YAMCY,253
+310,Yaskawa Electric,YASKY,253
+314,Z Holdings Corporation,YAHOY,253
+260,Sysmex,SSMXY,253
+266,TDK,TTDKY,253
+40,Daiichi Sankyo,DSNKY,253
+43,Daiwa House Industry,DWAHY,253
+256,Suntory Beverage & Food,STBFY,253
+42,Daito Trust Construction,DIFTY,253
+41,Daikin Industries,DKILY,253
+48,East Japan Railway,EJPRY,253
+239,SMC Corp,SMCAY,253
+241,Softbank Corp.,SOBKY,253
+45,Denso,DNZOY,253
+242,SoftBank Group,SFTBY,253
+36,Dai Nippon Printing,DNPLY,253
+235,Shiseido,SSDOY,253
+246,SUBARU CORPORATION,FUJHY,253
+248,Sumitomo,SSUMY,253
+249,Sumitomo Chemical,SOMMY,253
+234,Shionogi & Co.,SGIOY,253
+254,Sumitomo Mitsui Trust Holdings,SUTNY,253
+50,Eisai,ESALY,253
+219,Sega Sammy,SGAMY,252
+2,AGC Inc.,ASGLY,252
+253,Sumitomo Metal Mining,SMMYY,252
+289,Toyo Suisan,TSUKY,251
+186,Nippon Yusen Kabushiki Kaisha,NPNYY,250
+88,INPEX,IPXHY,249
+95,Japan Airport Terminal,JTTRY,248
+49,Ebara,EBCOY,248
+278,Tokyo Gas,TKGSY,247
+10,ANA Holdings,ALNPY,247
+44,Daiwa Securities,DSEEY,247
+6,Ajinomoto,AJINY,240
+23,Casio Computer,CSIOY,236
+115,Kawasaki Heavy Industries,KWHIY,236
+158,Mitsui Mining & Smelting,MMSMY,235
+157,Mitsui Fudosan,MTSFY,234
+105,JGC Holdings Corporation,JGCCY,233
+174,Nihon Kohden,NHNKY,231
+193,NSK,NPSKY,227
+214,ROHM,ROHCY,223
+261,T&D,TDHOY,217
+110,Kajima,KAJMY,214
+89,Internet Initiative Japan,IIJIY,212
+8,Alps Alpine Co. Ltd,APELY,211
+315,Zenkoku Hosho,ZNKKY,208
+15,ASICS,ASCCY,208
+46,Dentsu Group Inc,DNTUY,207
+47,Disco,DSCSY,203
+58,Fuji Electric,FELTY,203
+264,Taisho Pharmaceutical,TAIPY,203
+294,Toyota Industries,TYIDY,201
+123,Koito Manufacturing,KOTMY,200
+30,Coca-Cola Bottlers Japan,CCOJY,199
+135,LIXIL Corporation,JSGRY,198
+148,Misumi Group,MSSMY,195
+268,Teijin,TINLY,192
+244,Sompo Japan Nipponkoa,SMPNY,190
+233,Shinsei Bank,SKLKY,189
+263,Taisei,TISCY,188
+126,Konica Minolta,KNCAY,187
+39,Daifuku,DFKCY,187
+212,Ricoh,RICOY,185
+5,Aisin,ASEKY,184
+149,Mitsubishi Chemical,MTLHY,181
+208,Pigeon Corporation,PGENY,177
+251,Sumitomo Electric Industries,SMTOY,175
+265,Taiyo Yuden,TYOYY,172
+1,Aeon,AONNY,171
+147,MINEBEA MITSUMI Inc,MNBEY,170
+106,JSR,JSCPY,164
+35,CYBERDYNE,CYBQY,162
+34,CyberAgent,CYGIY,158
+276,Tokyo Electric Power,TKECY,144
+161,Monex,MNXBY,143
+20,Brother Industries,BRTHY,143
+288,Toto,TOTDY,142
+155,Mitsui Chemicals,MITUY,141
+129,Kuraray,KURRY,137
+79,Hitachi Construction Machinery,HTCMY,136
+283,Toppan Printing,TOPPY,135
+230,Shimizu,SHMUY,134
+282,Tomy Company,TOMYY,130
+247,SUMCO,SUOPY,130
+169,NGK Spark Plug,NGKSY,128
+112,Kansai Electric Power,KAEPY,128
+18,Benesse Holdings,BSEFY,127
+12,Aozora Bank,AOZOY,122
+207,Park24 Co.,PKCOY,122
+87,IHI,IHICY,120
+103,Japan Steel Works,JPSWY,119
+202,Oriental Land,OLCLY,115
+311,Yokogawa Electric,YOKEY,112
+69,Hachijuni Bank,HACBY,104
+305,Yakult Honsha,YKLTY,104
+17,BANDAI NAMCO Holdings Inc.,NCBDY,104
+245,Square Enix,SQNNY,103
+262,Taiheiyo Cement,THYCY,103
+59,Fuji Media,FJTNY,96
+194,NTT Data,NTDTY,95
+125,Konami,KONMY,93
+143,Medipal Holdings,MAHLY,90
+62,Fujitec,FJTCY,84
+66,Furukawa Electric,FUWAY,82
+93,ITOCHU Techno-Solutions,ITTOY,77
+298,TV Asahi,THDDY,74
+159,Mitsui OSK Lines,MSLOY,73
+308,Yamato,YATRY,71
+303,Wacom,WACMY,67
+86,Idemitsu Kosan,IDKOY,67
+116,Kawasaki Kisen Kaisha,KAIKY,66
+100,Japan Post Holdings,JPPHY,59
+64,Fukuoka Financial,FKKFY,59
+74,Hino Motors,HINOY,53
+187,Nissan Chemical Corporation,NNCHY,53
+225,Seven Bank,SVNBY,50
+236,Shizuoka Bank,SHZUY,49
+113,Kansai Paint Co.,KPTCY,48
+252,Sumitomo Heavy Industries,SOHVY,47
+37,Dai-ichi Life,DLICY,46
+280,Tokyu,TOKUY,45
+302,Wacoal,WACLY,44
+11,Anritsu,AITUY,44
+65,Funai Electric,FUAIY,42
+196,Oji Holdings Corporation,OJIPY,40
+107,JTEKT,JTEKY,39
+182,Nippon Shinyaku,NPPNY,38
+237,Showa Denko,SHWDY,37
+119,Kewpie,KWPCY,37
+80,Hitachi Metals,HMTLY,36
+275,Tokuyama,TKYMY,36
+144,MEIJI Holdings,MEJHY,35
+26,Chiyoda,CHYCY,33
+130,Kurita Water Industries,KTWIY,33
+83,Hoshizaki Corporation,HSHZY,32
+32,Cookpad Inc.,CKPDY,32
+291,Toyobo,TYOBY,31
+70,Hakuhodo DY,HKUOY,30
+137,Mabuchi Motor,MBUMY,29
+75,Hirose Electric Co,HROEY,23
+29,Citizen Watch,CHCLY,22
+178,Nippon Express,NPEXY,22
+96,Japan Display,JPDYY,21
+109,JVCKENWOOD Corporation,JVCZY,21
+153,Mitsubishi UFJ Lease & Finance,MIUFY,21
+25,Chiba Bank,CHBAY,20
+273,Tokai Tokyo Financial,TOKTY,20
+181,Nippon Sheet Glass,NPSGY,19
+180,Nippon Kayaku,NPKYY,18
+272,Tokai Carbon,TKCBY,17
+51,Electric Power Development,EDRWY,17
+120,Kikkoman Corporation,KIKOY,17
+131,Kyushu Electric Power,KYSEY,16
+312,Yokohama Rubber,YORUY,16
+257,Suruga Bank,SUGBY,15
+4,Aiful,AIFLY,15
+67,Glory,GLYYY,13
+3,Aida Engineering,ADERY,13
+170,NH Foods,NIPMY,11
+165,Nabtesco,NCTKY,11
+173,Nifco,NIFCY,11
+197,Oki Electric,OKIEY,9
+141,Matsui Securities,MAUSY,9
+221,Sekisui Chemical,SKSUY,8
+31,Concordia Financial Group,CRDIY,7
+299,Ube Industries,UBEOY,7
+189,Nisshinbo,NSHBY,6
+171,Nichirei,NCHEY,5
+134,Lion,LIOPY,5
+184,Nippon Suisan,NISUY,5
+223,Septeni,SPIDY,5
+286,Toshiba Tec,TSHTY,5
+281,Tokyu Fudosan,TKFOY,5
+71,Hamamatsu Photonics K.K.,HPHTY,5
+292,Toyoda Gosei,TGOSY,3
+76,Hisamitsu Pharmaceutical,HTSUY,3
+309,Yamazaki Baking,YMZBY,3
+238,SKY Perfect JSAT,SKPJY,3
+201,Onward Holdings,OKASY,3
+203,Osaka Gas,OSGSY,3
+28,Chugoku Electric Power,CGKEY,3
+108,Juki,JUKIY,3
+271,Tohoku Electric Power,TEPCY,3
+316,Zeon,ZEOOY,2
+213,Rinnai,RINIY,2
+33,Cosmo Energy,CSGYY,2
+232,Shinkin Central,SKCBY,1
+13,Asahi Group,ASBRY,1
+90,Isetan Mitsukoshi,IMHDY,1
+68,GMO Internet,GMYOY,1
+259,SymBio Pharmaceuticals,SYMQY,0
+293,Toyota Boshoku,TDBOY,0
+166,NEC,NNPPY,0
+295,Transcosmos Inc,TRCSY,0
+9,AMADA CO., LTD,0
+297,Tsugami,TSGMY,0
+85,Ibiden,IBIDY,0
+160,MODEC,MDIKY,0
+156,Mitsui E&S Holdings Co., Ltd.,0
+301,United Arrows,UTDAY,0
+7,Alfresa,ALFRY,0
+150,Mitsubishi Corp.,MTSUY,0
+82,Hokuhoku,HKHUY,0
+145,Menicon Co., Ltd.,0
+98,Japan Petroleum Exploration,JPTXY,0
+307,Yamaha Motor,YAMHY,0
+99,Japan Post Bank,JPPTY,0
+101,Japan Post Insurance,JPNPY,0
+102,Japan Retail Fund Investment,JNRFY,0
+133,Lawson,LWWLY,0
+132,Kyushu Railway,KYHHY,0
+313,Yumeshin Holdings,YHHCY,0
+121,Kintetsu World Express,KTWEY,0
+118,Kenedix,KNDXY,0
+167,Net One Systems,NONEY,0
+177,Nippon Electric Glass,NPPEY,0
+290,Toyo Tire & Rubber,TYRRY,0
+81,Hochiki,HHKIY,0
+250,Sumitomo Dainippon Pharma,SMDPY,0
+243,Sohgo Security,SOHGY,0
+38,Daibiru,DIBUY,0
+240,SMS Co., Ltd,0
+52,en-japan,ENJPY,0
+228,Shibaura Machine Co., Ltd.,0
+21,Calbee, Inc,0
+53,ENEOS Holdings, Inc.,0
+226,SG Holdings,SGHDY,0
+54,FamilyMart Co. Ltd,FYRTY,0
+57,Fields,FLDYY,0
+60,Fuji Seal International, Inc.,0
+216,SanBio,SNBOY,0
+72,Hankyu Hanshin Holdings Inc,HNNKY,0
+279,Tokyo Tatemono,TYTMY,0
+73,Haseko Corp,HSSKY,0
+195,NTT DOCOMO,DCMYY,0
+192,Nomura Research Institute,NRILD,0
+78,Hitachi Capital,HTCIY,0
+183,Nippon Steel & Sumitomo Metal,NSSMY,0
+179,Nippon Gas Co., Ltd,0
+287,Tosoh,TSHXY,0
+255,Sumitomo Realty & Development,SURYY,0
+111,Kakaku.com,KKMMY,0
