@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+2222#!/usr/bin/python3
 
 import pandas as pd
 import numpy as np
@@ -21,15 +21,13 @@ def main():
     print(f'tickers: {args.tickers}')
     print(f'start - {args.start}, end - {args.end}')
 
-    tickers = pd.read_csv(args.tickers, index_col=False)
+    tickers = pd.read_csv(args.tickers)
     info = pd.DataFrame(data=[], columns=['name', 'ticker', 'count'])
 
     # get data
     tickers_total = len(tickers)
     for index, (ticker, name) in tickers.iterrows():
-        print(ticker)
-        data = yf.Ticker(ticker)
-        data = data.history(start=args.start, end=args.end)
+        data = yf.download(ticker, args.start, args.end, show_errors=False, progress=False)
         if len(data) != 0:
             data.to_csv(f'downloader-data/{ticker}.csv')
         # log statistics
