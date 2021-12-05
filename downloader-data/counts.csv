@@ -1,4 +1,2968 @@
 ,name,ticker,count
-0,JPX-Nikkei400,JPN,251
-1,NASDAQ Composite,^IXIC,251
-2,NSE NIFTY-50,^NSEI,245
+2966,Zumiez Inc.,ZUMZ,253
+2430,Credit Suisse AG,SLVO,253
+1305,"HomeTrust Bancshares, Inc.",HTBI,253
+1304,"HealthStream, Inc.",HSTM,253
+1303,"Hudson Global, Inc.",HSON,253
+2427,"Simulations Plus, Inc.",SLP,253
+2428,Solar Capital Ltd.,SLRC,253
+1300,Heska Corporation,HSKA,253
+1299,"Heidrick & Struggles International, Inc.",HSII,253
+1298,"Henry Schein, Inc.",HSIC,253
+1296,Horizon Technology Finance Corporation,HRZN,253
+1295,"Heron Therapeutics, Inc.",HRTX,253
+1294,"HealthEquity, Inc.",HQY,253
+1288,"Home BancShares, Inc.",HOMB,253
+1307,"Heat Biologics, Inc.",HTBX,253
+1287,"Hologic, Inc.",HOLX,253
+1286,"Hollysys Automation Technologies, Ltd.",HOLI,253
+1285,Hooker Furniture Corporation,HOFT,253
+1283,Hallador Energy Company,HNRG,253
+1282,"Hennessy Advisors, Inc.",HNNA,253
+2435,"Southern Missouri Bancorp, Inc.",SMBC,253
+1280,"Hemisphere Media Group, Inc.",HMTV,253
+2436,"Super Micro Computer, Inc.",SMCI,253
+1278,"HomeStreet, Inc.",HMST,253
+2437,Sharps Compliance Corp,SMED,253
+1276,Helios and Matheson Analytics Inc,HMNY,253
+1306,Heritage Commerce Corp,HTBK,253
+1309,"China Lodging Group, Limited",HTHT,253
+1188,"Grifols, S.A.",GRFS,253
+1325,Horizon Pharma plc,HZNP,253
+1338,"ICF International, Inc.",ICFI,253
+2416,FlexShares Credit,SKOR,253
+1336,ImmuCell Corporation,ICCC,253
+1335,icad inc.,ICAD,253
+1334,"Independent Bank Group, Inc",IBTX,253
+1333,International Bancshares Corporation,IBOC,253
+1332,"Interactive Brokers Group, Inc.",IBKR,253
+1330,Independent Bank Corporation,IBCP,253
+1328,iShares Nasdaq Biotechnology Index Fund,IBB,253
+1327,Integra LifeSciences Holdings Corporation,IART,253
+2419,"SkyWest, Inc.",SKYW,253
+1324,WisdomTree BofA Merrill Lynch High Yield Bond Zero Duration Fund,HYZD,253
+1310,"Heartland Express, Inc.",HTLD,253
+2420,First Trust ISE Cloud Computing Index Fund,SKYY,253
+1322,First Trust High Yield Long/Short ETF,HYLS,253
+2421,"Silicon Laboratories, Inc.",SLAB,253
+1320,"Hawkins, Inc.",HWKN,253
+1318,"Hawthorn Bancshares, Inc.",HWBK,253
+2423,Silgan Holdings Inc.,SLGN,253
+1316,Huron Consulting Group Inc.,HURN,253
+1315,"Hurco Companies, Inc.",HURC,253
+1314,"Hub Group, Inc.",HUBG,253
+2424,SLM Corporation,SLM,253
+1311,"Heartland Financial USA, Inc.",HTLF,253
+2438,"Schmitt Industries, Inc.",SMIT,253
+1273,Houghton Mifflin Harcourt Company,HMHC,253
+2439,"Semler Scientific, Inc.",SMLR,253
+2466,Sohu.com Inc.,SOHU,253
+1225,Huntington Bancshares Incorporated,HBAN,253
+1224,"Haynes International, Inc.",HAYN,253
+2463,Sotherly Hotels Inc.,SOHO,253
+1221,"Hasbro, Inc.",HAS,253
+1219,"Halozyme Therapeutics, Inc.",HALO,253
+1218,"Hallmark Financial Services, Inc.",HALL,253
+1217,"The Hain Celestial Group, Inc.",HAIN,253
+1216,Hanmi Financial Corporation,HAFC,253
+1214,"Hawaiian Holdings, Inc.",HA,253
+1211,"GWG Holdings, Inc",GWGH,253
+1210,"Gulf Resources, Inc.",GURE,253
+1204,"Chart Industries, Inc.",GTLS,253
+1271,Harmonic Inc.,HLIT,253
+1202,Good Times Restaurants Inc.,GTIM,253
+1201,The Goodyear Tire & Rubber Company,GT,253
+2471,iShares PHLX SOX Semiconductor Sector Index Fund,SOXX,253
+2472,SP Plus Corporation,SP,253
+1198,Globe Specialty Metals Inc.,GSM,253
+1197,"GSI Technology, Inc.",GSIT,253
+1195,"Great Southern Bancorp, Inc.",GSBC,253
+1194,"GRAVITY Co., Ltd.",GRVY,253
+1193,"Groupon, Inc.",GRPN,253
+1192,"U.S. Global Investors, Inc.",GROW,253
+1191,Garmin Ltd.,GRMN,253
+1227,"Home Bancorp, Inc.",HBCP,253
+1229,"Harvard Bioscience, Inc.",HBIO,253
+1231,"Howard Bancorp, Inc.",HBMD,253
+1232,Horizon Bancorp (IN),HBNC,253
+2440,"Summit Financial Group, Inc.",SMMF,253
+1269,"Himax Technologies, Inc.",HIMX,253
+2441,Simplicity Bancorp Inc.,SMPL,253
+1266,Highway Holdings Limited,HIHO,253
+1265,Hingham Institution for Savings,HIFS,253
+1264,"Hibbett Sports, Inc.",HIBB,253
+1263,"China HGS Real Estate, Inc.",HGSH,253
+1262,Heritage Financial Corporation,HFWA,253
+2443,"Smith Micro Software, Inc.",SMSI,253
+1258,"Hercules Offshore, Inc.",HERO,253
+2445,Semtech Corporation,SMTC,253
+1256,Helen of Troy Limited,HELE,253
+1255,"H&E Equipment Services, Inc.",HEES,253
+1254,Turtle Beach Corporation,HEAR,253
+1253,"Hudson Technologies, Inc.",HDSN,253
+2451,"Synchronoss Technologies, Inc.",SNCR,253
+2453,Security National Financial Corporation,SNFCA,253
+1244,"Healthcare Services Group, Inc.",HCSG,253
+1242,"The Hackett Group, Inc.",HCKT,253
+1241,Heritage,HCCI,253
+2456,"Synopsys, Inc.",SNPS,253
+1235,"Huttig Building Products, Inc.",HBP,253
+2460,Global X Social Media Index ETF,SOCL,253
+1341,iShares S&P Global Clean Energy Index Fund,ICLN,253
+1342,ICON plc,ICLR,253
+1344,"Intercept Pharmaceuticals, Inc.",ICPT,253
+2371,"Superior Uniform Group, Inc.",SGC,253
+2366,"Sprouts Farmers Market, Inc.",SFM,253
+2367,Simmons First National Corporation,SFNC,253
+2368,"Southern First Bancshares, Inc.",SFST,253
+1453,Jack In The Box Inc.,JACK,253
+1450,"Intevac, Inc.",IVAC,253
+1449,Ituran Location and Control Ltd.,ITRN,253
+1448,"Itron, Inc.",ITRI,253
+1447,Investors Title Company,ITIC,253
+1446,Intra,ITCI,253
+1445,Investar Holding Corporation,ISTR,253
+1443,"Innovative Solutions and Support, Inc.",ISSC,253
+1441,"Intuitive Surgical, Inc.",ISRG,253
+2380,"SPAR Group, Inc.",SGRP,253
+2372,"Seattle Genetics, Inc.",SGEN,253
+2374,"SigmaTron International, Inc.",SGMA,253
+2375,"Sangamo BioSciences, Inc.",SGMO,253
+1435,"Insignia Systems, Inc.",ISIG,253
+2376,Scientific Games Corp,SGMS,253
+1432,"Investors Bancorp, Inc.",ISBC,253
+1431,"Ironwood Pharmaceuticals, Inc.",IRWD,253
+1429,iRadimed Corporation,IRMD,253
+1428,IRIDEX Corporation,IRIX,253
+2379,"SGOCO Group, Ltd",SGOC,253
+1424,Iridium Communications Inc,IRDM,253
+1457,"JAKKS Pacific, Inc.",JAKK,253
+2364,"ServisFirst Bancshares, Inc.",SFBS,253
+1462,Jazz Pharmaceuticals plc,JAZZ,253
+1463,"J.B. Hunt Transport Services, Inc.",JBHT,253
+1490,"Kimball International, Inc.",KBAL,253
+1488,Kaiser Aluminum Corporation,KALU,253
+1487,The Joint Corp.,JYNT,253
+2354,"Shoe Carnival, Inc.",SCVL,253
+1485,"Coffee Holding Co., Inc.",JVA,253
+2355,"SCYNEXIS, Inc.",SCYX,253
+1,"American Airlines Group, Inc.",AAL,253
+2356,"SeaChange International, Inc.",SEAC,253
+1481,SLM Corporation,JSM,253
+1480,"James River Group Holdings, Ltd.",JRVR,253
+1479,China Finance Online Co. Limited,JRJC,253
+1478,Johnson Outdoors Inc.,JOUT,253
+2357,Origin Agritech Limited,SEED,253
+1476,"51job, Inc.",JOBS,253
+2358,SEI Investments Company,SEIC,253
+1474,"Jack Henry & Associates, Inc.",JKHY,253
+1473,J & J Snack Foods Corp.,JJSF,253
+2360,Seneca Foods Corp.,SENEA,253
+1469,"JD.com, Inc.",JD,253
+1467,"Communications Systems, Inc.",JCS,253
+1466,"j2 Global, Inc.",JCOM,253
+1465,"John B. Sanfilippo & Son, Inc.",JBSS,253
+1464,JetBlue Airways Corporation,JBLU,253
+1423,iRobot Corporation,IRBT,253
+1420,Ideal Power Inc.,IPWR,253
+1345,"ICU Medical, Inc.",ICUI,253
+2406,Silicon Motion Technology Corporation,SIMO,253
+2400,Sify Technologies Limited,SIFY,253
+1375,"ImmunoGen, Inc.",IMGN,253
+2401,SIGA Technologies Inc.,SIGA,253
+1373,"Illumina, Inc.",ILMN,253
+1372,Ikonics Corporation,IKNX,253
+2402,"Selective Insurance Group, Inc.",SIGI,253
+1369,II,IIVI,253
+1368,IntriCon Corporation,IIN,253
+2404,Silicom Ltd,SILC,253
+1365,"Insteel Industries, Inc.",IIIN,253
+1364,"Information Services Group, Inc.",III,253
+1362,iShares S&P/Citigroup International Treasury Bond Fund,IGOV,253
+1419,PowerShares International BuyBack Achievers Portfolio,IPKW,253
+1360,First Trust Dorsey Wright International Focus 5 ETF,IFV,253
+2408,Sino,SINO,253
+1357,iShares FTSE EPRA/NAREIT Global Real Estate ex,IFGL,253
+2409,Sirius XM Holdings Inc.,SIRI,253
+1354,iShares MSCI Europe Small,IEUS,253
+1353,"Integrated Electrical Services, Inc.",IESC,253
+1352,Icahn Enterprises L.P.,IEP,253
+1351,"IDEXX Laboratories, Inc.",IDXX,253
+2411,SVB Financial Group,SIVB,253
+1347,"Idera Pharmaceuticals, Inc.",IDRA,253
+1346,"InterDigital, Inc.",IDCC,253
+1377,"Ingles Markets, Incorporated",IMKTA,253
+1378,Immersion Corporation,IMMR,253
+2398,"Sientra, Inc.",SIEN,253
+2397,Siebert Financial Corp.,SIEB,253
+1417,IPG Photonics Corporation,IPGP,253
+1416,"Professional Diversity Network, Inc.",IPDN,253
+2384,Shore Bancshares Inc,SHBI,253
+2385,Shenandoah Telecommunications Co,SHEN,253
+2386,Seanergy Maritime Holdings Corp,SHIP,253
+1411,"Inter Parfums, Inc.",IPAR,253
+1410,Innospec Inc.,IOSP,253
+1407,"Identiv, Inc.",INVE,253
+1405,Intuit Inc.,INTU,253
+1401,Intel Corporation,INTC,253
+2391,"Steven Madden, Ltd.",SHOO,253
+1399,"Insmed, Inc.",INSM,253
+1397,Innodata Inc.,INOD,253
+1396,"Inovio Pharmaceuticals, Inc.",INO,253
+1393,"Inogen, Inc",INGN,253
+1392,Infinera Corporation,INFN,253
+1391,"Infinity Pharmaceuticals, Inc.",INFI,253
+1389,iShares S&P India Nifty 50 Index Fund,INDY,253
+1388,Independent Bank Corp.,INDB,253
+1387,Incyte Corporation,INCY,253
+1386,"INC Research Holdings, Inc.",INCR,253
+1385,First Internet Bancorp,INBK,253
+1382,ChipMOS TECHNOLOGIES (Bermuda) LTD.,IMOS,253
+1189,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund,GRID,253
+1187,"Green Brick Partners, Inc.",GRBK,253
+2351,"ScanSource, Inc.",SCSC,253
+2555,"Stock Yards Bancorp, Inc.",SYBT,253
+998,"Fuwei Films (Holdings) Co., Ltd.",FFHL,253
+996,First Financial Bancorp.,FFBC,253
+995,"FireEye, Inc.",FEYE,253
+2550,"Firsthand Technology Value Fund, Inc.",SVVC,253
+992,First Trust Emerging Markets Local Currency Bond ETF,FEMB,253
+991,"Franklin Electric Co., Inc.",FELE,253
+990,"Frequency Electronics, Inc.",FEIM,253
+988,Fidus Investment Corporation,FDUS,253
+2552,"Sierra Wireless, Inc.",SWIR,253
+986,First Trust Strategic Income ETF,FDIV,253
+2553,"Skyworks Solutions, Inc.",SWKS,253
+2559,Synaptics Incorporated,SYNA,253
+1000,"First Financial Bankshares, Inc.",FFIN,253
+978,"First Citizens BancShares, Inc.",FCNCA,253
+2561,Synalloy Corporation,SYNL,253
+975,"First Cash Financial Services, Inc.",FCFS,253
+974,"FuelCell Energy, Inc.",FCEL,253
+973,1st Constitution Bancorp (NJ),FCCY,253
+972,First Community Corporation,FCCO,253
+971,"First Community Bancshares, Inc.",FCBC,253
+2563,"Sypris Solutions, Inc.",SYPR,253
+966,First Bancorp,FBNC,253
+965,"The First Bancshares, Inc.",FBMS,253
+964,"First Business Financial Services, Inc.",FBIZ,253
+999,Flushing Financial Corporation,FFIC,253
+1001,"F5 Networks, Inc.",FFIV,253
+1186,"GoPro, Inc.",GPRO,253
+2543,Solar Senior Capital Ltd.,SUNS,253
+2540,"Stereotaxis, Inc.",STXS,253
+1030,"First Midwest Bancorp, Inc.",FMBI,253
+1029,First Mid,FMBH,253
+1028,First Trust Managed Municipal ETF,FMB,253
+1027,"Flexsteel Industries, Inc.",FLXS,253
+1025,1,FLWS,253
+1023,"Full House Resorts, Inc.",FLL,253
+2542,"Summer Infant, Inc.",SUMR,253
+1021,The First of Long Island Corporation,FLIC,253
+1020,Flextronics International Ltd.,FLEX,253
+1019,Fluidigm Corporation,FLDM,253
+1017,National Beverage Corp.,FIZZ,253
+1004,"First Financial Northwest, Inc.",FFNW,253
+1016,"Five9, Inc.",FIVN,253
+1015,"Five Below, Inc.",FIVE,253
+1014,Fifth Third Bancorp,FITBI,253
+1013,Fifth Third Bancorp,FITB,253
+1012,"Fiserv, Inc.",FISV,253
+1011,"Financial Institutions, Inc.",FISI,253
+2544,"Supernus Pharmaceuticals, Inc.",SUPN,253
+2545,"Synergetics USA, Inc.",SURG,253
+1008,"First Interstate BancSystem, Inc.",FIBK,253
+1006,"FibroGen, Inc",FGEN,253
+1005,First Foundation Inc.,FFWM,253
+963,"Facebook, Inc.",FB,253
+962,"Fate Therapeutics, Inc.",FATE,253
+961,Fastenal Company,FAST,253
+904,"Epizyme, Inc.",EPZM,253
+921,Elbit Systems Ltd.,ESLT,253
+2581,"Theravance Biopharma, Inc.",TBPH,253
+919,Enstar Group Limited,ESGR,253
+918,Euroseas Ltd.,ESEA,253
+2582,"Texas Capital Bancshares, Inc.",TCBI,253
+915,"Escalade, Incorporated",ESCA,253
+2586,TriCo Bancshares,TCBK,253
+909,"Energy Recovery, Inc.",ERII,253
+908,Erie Indemnity Company,ERIE,253
+907,Ericsson,ERIC,253
+905,"Equinix, Inc.",EQIX,253
+2588,The Community Financial Corporation,TCFC,253
+960,"FARO Technologies, Inc.",FARO,253
+2589,TCP Capital Corp.,TCPC,253
+901,"Bottomline Technologies, Inc.",EPAY,253
+2591,Tucows Inc.,TCX,253
+2592,First Trust Exchange,TDIV,253
+897,"Enzon Pharmaceuticals, Inc.",ENZN,253
+895,"Entropic Communications, Inc.",ENTR,253
+894,"Entegris, Inc.",ENTG,253
+893,"Enanta Pharmaceuticals, Inc.",ENTA,253
+891,"The Ensign Group, Inc.",ENSG,253
+890,"Enphase Energy, Inc.",ENPH,253
+888,ENGlobal Corporation,ENG,253
+923,"Esperion Therapeutics, Inc.",ESPR,253
+2580,Territorial Bancorp Inc.,TBNK,253
+925,"ESSA Bancorp, Inc.",ESSA,253
+2579,"Triumph Bancorp, Inc.",TBK,253
+959,Farmer Brothers Company,FARM,253
+958,"Diamondback Energy, Inc.",FANG,253
+956,"EZCORP, Inc.",EZPW,253
+954,"Second Sight Medical Products, Inc.",EYES,253
+952,"Extreme Networks, Inc.",EXTR,253
+951,"Exponent, Inc.",EXPO,253
+950,"Expedia, Inc.",EXPE,253
+949,"Expeditors International of Washington, Inc.",EXPD,253
+948,"ExlService Holdings, Inc.",EXLS,253
+2568,TransAct Technologies Incorporated,TACT,253
+945,"Exelixis, Inc.",EXEL,253
+944,Exact Sciences Corporation,EXAS,253
+2569,Taitron Components Incorporated,TAIT,253
+941,"East West Bancorp, Inc.",EWBC,253
+939,"Evolving Systems, Inc.",EVOL,253
+938,"Evoke Pharma, Inc.",EVOK,253
+937,EVINE Live Inc.,EVLV,253
+936,Ever,EVK,253
+2572,"Carrols Restaurant Group, Inc.",TAST,253
+2573,TAT Technologies Ltd.,TATT,253
+931,iShares MSCI Europe Financials Sector Index Fund,EUFN,253
+2577,"The Bancorp, Inc.",TBBK,253
+927,Community Bankers Trust Corporation.,ESXB,253
+2539,Seagate Technology.,STX,253
+1033,Farmers National Banc Corp.,FMNB,253
+2536,Strattec Security Corporation,STRT,253
+1127,Genetic Technologies Ltd,GENE,253
+1144,GigaMedia Limited,GIGM,253
+1142,"Gulf Island Fabrication, Inc.",GIFI,253
+1140,Grupo Financiero Galicia S.A.,GGAL,253
+2490,SmartPros Ltd.,SPRO,253
+2492,"SPS Commerce, Inc.",SPSC,253
+2493,SpartanNash Company,SPTN,253
+2495,"Sportsman's Warehouse Holdings, Inc.",SPWH,253
+1131,"Gevo, Inc.",GEVO,253
+2496,SunPower Corporation,SPWR,253
+1129,Geron Corporation,GERN,253
+1128,Geospace Technologies Corporation,GEOS,253
+1126,Gencor Industries Inc.,GENC,253
+2506,"Sorrento Therapeutics, Inc.",SRNE,253
+1123,"Greene County Bancorp, Inc.",GCBC,253
+1120,Global Indemnity plc,GBLI,253
+1118,"Golub Capital BDC, Inc.",GBDC,253
+1117,"Glacier Bancorp, Inc.",GBCI,253
+1116,"StealthGas, Inc.",GASS,253
+2501,ProShares UltraPro Short QQQ,SQQQ,253
+1114,Shanda Games Limited,GAME,253
+2502,1st Source Corporation,SRCE,253
+2503,"Stericycle, Inc.",SRCL,253
+1111,Galectin Therapeutics Inc.,GALT,253
+2504,"SurModics, Inc.",SRDX,253
+1145,G,GIII,253
+1146,"Gilead Sciences, Inc.",GILD,253
+1147,Gilat Satellite Networks Ltd.,GILT,253
+1150,Gladstone Capital Corporation,GLAD,253
+1185,"Green Plains, Inc.",GPRE,253
+1182,Google Inc.,GOOGL,253
+1181,Google Inc.,GOOG,253
+2475,"SuperCom, Ltd.",SPCB,253
+1178,Gladstone Commercial Corporation,GOODN,253
+1177,Gladstone Commercial Corporation,GOOD,253
+1175,Randgold Resources Limited,GOLD,253
+1174,Gogo Inc.,GOGO,253
+1172,Gentex Corporation,GNTX,253
+1170,iShares Core GNMA Bond ETF,GNMA,253
+1168,"Genocea Biosciences, Inc.",GNCA,253
+2481,Splunk Inc.,SPLK,253
+1163,"GlycoMimetics, Inc.",GLYC,253
+2484,Sapiens International Corporation N.V.,SPNS,253
+1160,"Greenlight Reinsurance, Ltd.",GLRE,253
+1159,"Gaming and Leisure Properties, Inc.",GLPI,253
+1158,Golar LNG Limited,GLNG,253
+1157,Galmed Pharmaceuticals Ltd.,GLMD,253
+1156,Credit Suisse AG,GLDI,253
+1155,Great Lakes Dredge & Dock Corporation,GLDD,253
+2485,"Spok Holdings, Inc.",SPOK,253
+1152,Globus Maritime Limited,GLBS,253
+2486,"Spectrum Pharmaceuticals, Inc.",SPPI,253
+2505,"ServiceSource International, Inc.",SREV,253
+1107,Gladstone Investment Corporation,GAIN,253
+1037,Federated National Holding Company,FNHC,253
+1051,Twenty,FOX,253
+2525,"Steel Dynamics, Inc.",STLD,253
+1066,"Freshpet, Inc.",FRPT,253
+1064,"FRP Holdings, Inc.",FRPH,253
+1062,First Merchants Corporation,FRME,253
+1061,"Fiesta Restaurant Group, Inc.",FRGI,253
+1060,FreeSeas Inc.,FREE,253
+1058,"Republic First Bancorp, Inc.",FRBK,253
+1057,First Bank,FRBA,253
+1055,First Trust International IPO ETF,FPXI,253
+1053,Fox Factory Holding Corp.,FOXF,253
+1052,Twenty,FOXA,253
+1050,"Fossil Group, Inc.",FOSL,253
+1106,"Gaiam, Inc.",GAIA,253
+1049,Formula Systems (1985) Ltd.,FORTY,253
+1048,"Forrester Research, Inc.",FORR,253
+2094,Pilgrim's Pride Corporation,PPC,253
+1046,"Forward Industries, Inc.",FORD,253
+1045,Fonar Corporation,FONR,253
+2531,"Strayer Education, Inc.",STRA,253
+2532,Sterling Construction Company Inc,STRL,253
+1042,"Amicus Therapeutics, Inc.",FOLD,253
+2533,"Streamline Health Solutions, Inc.",STRM,253
+1039,"First Bancorp, Inc (ME)",FNLC,253
+2535,"Stratus Properties, Inc.",STRS,253
+2524,"SunOpta, Inc.",STKL,253
+1070,"FS Bancorp, Inc.",FSBW,253
+2523,State Auto Financial Corporation,STFC,253
+2522,"StemCells, Inc.",STEM,253
+2507,"Sarepta Therapeutics, Inc.",SRPT,253
+1104,"German American Bancorp, Inc.",GABC,253
+2509,South State Corporation,SSB,253
+2510,Summit State Bank,SSBI,253
+1100,Forward Air Corporation,FWRD,253
+1099,Forward Pharma A/S,FWP,253
+1097,First Trust Dorsey Wright Focus 5 ETF,FV,253
+1096,"Royce Focus Trust, Inc.",FUND,253
+1095,First United Corporation,FUNC,253
+1094,Fulton Financial Corporation,FULT,253
+2513,"SS&C Technologies Holdings, Inc.",SSNC,253
+1090,First Trust Enhanced Short Maturity ETF,FTSM,253
+1089,First Trust Senior Loan Fund ETF,FTSL,253
+1087,"Fortinet, Inc.",FTNT,253
+1084,First Trust Global Tactical Commodity Strategy Fund,FTGC,253
+1083,"Fuel Tech, Inc.",FTEK,253
+2516,"Stratasys, Ltd.",SSYS,253
+1081,First Trust Capital Strength ETF,FTCS,253
+2517,STAAR Surgical Company,STAA,253
+1079,L.B. Foster Company,FSTR,253
+2519,"S&T Bancorp, Inc.",STBA,253
+1076,"First Solar, Inc.",FSLR,253
+1073,"First Savings Financial Group, Inc.",FSFG,253
+1492,KBS Fashion Group Limited,KBSF,253
+1495,"Kimball Electronics, Inc.",KE,253
+886,Endo International plc,ENDP,253
+1888,Nova Measuring Instruments Ltd.,NVMI,253
+1903,"New York Mortgage Trust, Inc.",NYMT,253
+1900,NXT,NXTD,253
+1899,"Nexstar Broadcasting Group, Inc.",NXST,253
+1898,NXP Semiconductors N.V.,NXPI,253
+1897,News Corporation,NWSA,253
+1896,News Corporation,NWS,253
+1895,Northwest Pipe Company,NWPX,253
+1894,National Western Life Insurance Company,NWLI,253
+1893,Norwood Financial Corp.,NWFL,253
+1891,"Northwest Biotherapeutics, Inc.",NWBO,253
+1890,"Northwest Bancshares, Inc.",NWBI,253
+2181,"Qualys, Inc.",QLYS,253
+1905,Nymox Pharmaceutical Corporation,NYMX,253
+1886,"Nova Lifestyle, Inc",NVFY,253
+2182,"QuinStreet, Inc.",QNST,253
+1884,"NV5 Holdings, Inc.",NVEE,253
+1883,NVE Corporation,NVEC,253
+2183,First Trust NASDAQ,QQEW,253
+1881,NVIDIA Corporation,NVDA,253
+1880,Neovasc Inc.,NVCN,253
+1879,"Novavax, Inc.",NVAX,253
+1878,"NuVasive, Inc.",NUVA,253
+2184,"PowerShares QQQ Trust, Series 1",QQQ,253
+1876,"NeuroMetrix, Inc.",NURO,253
+1904,"New York Mortgage Trust, Inc.",NYMTP,253
+1908,Ocean Bio,OBCI,253
+1805,National Instruments Corporation,NATI,253
+2169,First Trust NASDAQ Clean Edge Green Energy Index Fund,QCLN,253
+1939,"Onconova Therapeutics, Inc.",ONTX,253
+1936,Fidelity Nasdaq Composite Index Tracking Stock,ONEQ,253
+1935,"Oncolytics Biotech, Inc.",ONCY,253
+1934,Old National Bancorp,ONB,253
+1933,"Odyssey Marine Exploration, Inc.",OMEX,253
+1932,Omeros Corporation,OMER,253
+2166,iShares MSCI Qatar Capped ETF,QAT,253
+1930,"Omnicell, Inc.",OMCL,253
+1929,Grupo Aeroportuario del Centro Norte S.A.B. de C.V.,OMAB,253
+1928,Universal Display Corporation,OLED,253
+1925,O2Micro International Limited,OIIM,253
+2170,QUALCOMM Incorporated,QCOM,253
+1909,Optical Cable Corporation,OCC,253
+2171,"QCR Holdings, Inc.",QCRH,253
+2172,Quidel Corporation,QDEL,253
+1920,OFS Capital Corporation,OFS,253
+1919,"Omega Flex, Inc.",OFLX,253
+1918,Orthofix International N.V.,OFIX,253
+1916,"Office Depot, Inc.",ODP,253
+1915,"Old Dominion Freight Line, Inc.",ODFL,253
+1914,"Ocular Therapeutix, Inc.",OCUL,253
+2173,Qiagen N.V.,QGEN,253
+2175,QIWI plc,QIWI,253
+1910,OceanFirst Financial Corp.,OCFC,253
+1875,"Nuance Communications, Inc.",NUAN,253
+1874,NetSol Technologies Inc.,NTWK,253
+1872,Northern Trust Corporation,NTRS,253
+1822,Noodles & Company,NDLS,253
+1836,"Northfield Bancorp, Inc.",NFBK,253
+1835,Newtek Business Services Corp.,NEWT,253
+2202,Rada Electronics Industries Limited,RADA,253
+1833,Newport Corporation,NEWP,253
+1831,"Minerva Neurosciences, Inc",NERV,253
+1830,Neptune Technologies & Bioresources Inc,NEPT,253
+2203,"Freightcar America, Inc.",RAIL,253
+1828,Neonode Inc.,NEON,253
+1827,Neogen Corporation,NEOG,253
+1826,"NeoGenomics, Inc.",NEO,253
+1824,Nordson Corporation,NDSN,253
+1821,"The NASDAQ OMX Group, Inc.",NDAQ,253
+2186,Nuveen NASDAQ 100 Dynamic Overwrite Fund,QQQX,253
+1820,The9 Limited,NCTY,253
+1819,"National CineMedia, Inc.",NCMI,253
+1818,Norwegian Cruise Line Holdings Ltd.,NCLH,253
+2205,Ultragenyx Pharmaceutical Inc.,RARE,253
+2206,"Rave Restaurant Group, Inc.",RAVE,253
+1815,NBT Bancorp Inc.,NBTB,253
+1813,Northeast Bancorp,NBN,253
+1812,"Neurocrine Biosciences, Inc.",NBIX,253
+2208,"Republic Bancorp, Inc.",RBCAA,253
+1810,Navient Corporation,NAVI,253
+2209,"Rubicon Technology, Inc.",RBCN,253
+2201,Recon Capital NASDAQ,QYLD,253
+1838,"Netflix, Inc.",NFLX,253
+2198,uniQure N.V.,QURE,253
+1842,NICE,NICE,253
+2187,First Trust NASDAQ,QQXT,253
+2188,Quest Resource Holding Corporation.,QRHC,253
+1868,Northern Technologies International Corporation,NTIC,253
+1867,"NETGEAR, Inc.",NTGR,253
+1866,"NetEase, Inc.",NTES,253
+1865,"NetScout Systems, Inc.",NTCT,253
+1864,"NetApp, Inc.",NTAP,253
+1863,Nortech Systems Incorporated,NSYS,253
+1862,"NanoString Technologies, Inc.",NSTG,253
+1861,"NAPCO Security Technologies, Inc.",NSSC,253
+2189,"Qorvo, Inc.",QRVO,253
+1859,"Insight Enterprises, Inc.",NSIT,253
+1856,Northrim BanCorp Inc,NRIM,253
+2191,First Trust NASDAQ,QTEC,253
+2192,Quotient Limited,QTNT,253
+1851,"NN, Inc.",NNBR,253
+2195,QuickLogic Corporation,QUIK,253
+1849,NMI Holdings Inc,NMIH,253
+1848,"Netlist, Inc.",NLST,253
+2196,Qumu Corporation,QUMU,253
+1846,Nektar Therapeutics,NKTR,253
+1845,"National Bankshares, Inc.",NKSH,253
+1843,"Nicholas Financial, Inc.",NICK,253
+2163,First Trust NASDAQ ABA Community Bank Index Fund,QABA,253
+2162,"Papa John'S International, Inc.",PZZA,253
+2161,"Pixelworks, Inc.",PXLW,253
+2114,ProQR Therapeutics N.V.,PRQR,253
+2111,Primo Water Corporation,PRMW,253
+2051,"PGT, Inc.",PGTI,253
+2112,"Provident Financial Holdings, Inc.",PROV,253
+2049,Peapack,PGC,253
+2048,"PFSweb, Inc.",PFSW,253
+2113,"ProPhase Labs, Inc.",PRPH,253
+2046,Performant Financial Corporation,PFMT,253
+2045,PennantPark Floating Rate Capital Ltd.,PFLT,253
+2044,Peoples Financial Services Corp.,PFIS,253
+2043,"P & F Industries, Inc.",PFIN,253
+2042,"Profire Energy, Inc.",PFIE,253
+2039,Preferred Bank,PFBC,253
+2019,"Patterson Companies, Inc.",PDCO,253
+2037,"PetMed Express, Inc.",PETS,253
+2035,Perma,PESI,253
+2117,Prothena Corporation plc,PRTA,253
+2033,Perion Network Ltd,PERI,253
+2118,"Paratek Pharmaceuticals, Inc.",PRTK,253
+2120,"U.S. Auto Parts Network, Inc.",PRTS,253
+2029,"Penn National Gaming, Inc.",PENN,253
+2026,Pegasystems Inc.,PEGA,253
+2025,Peoples Bancorp Inc.,PEBO,253
+2024,"Peoples Bancorp of North Carolina, Inc.",PEBK,253
+2021,"PDF Solutions, Inc.",PDFS,253
+2109,"ParkerVision, Inc.",PRKR,253
+2108,Primoris Services Corporation,PRIM,253
+2057,"Premier, Inc.",PINC,253
+2058,"Parke Bancorp, Inc.",PKBK,253
+2091,"Powell Industries, Inc.",POWL,253
+2090,"Power Integrations, Inc.",POWI,253
+2088,Pool Corporation,POOL,253
+2087,Insulet Corporation,PODD,253
+2097,"Pioneer Power Solutions, Inc.",PPSI,253
+2098,"PRA Group, Inc.",PRAA,253
+2083,PowerShares Nasdaq Internet Portfolio,PNQI,253
+2082,PennantPark Investment Corporation,PNNT,253
+2081,"Pinnacle Financial Partners, Inc.",PNFP,253
+2078,Pingtan Marine Enterprise Ltd.,PME,253
+2077,Psychemedics Corporation,PMD,253
+2074,Plexus Corp.,PLXS,253
+2073,ePlus inc.,PLUS,253
+2072,"Plug Power, Inc.",PLUG,253
+2071,First Trust ISE Global Platinum Index Fund,PLTM,253
+2069,Preformed Line Products Company,PLPC,253
+2102,"Perficient, Inc.",PRFT,253
+2103,PowerShares FTSE RAFI US 1500 Small,PRFZ,253
+2064,"Children's Place, Inc. (The)",PLCE,253
+2062,"Dave & Buster's Entertainment, Inc.",PLAY,253
+2061,"Photronics, Inc.",PLAB,253
+2106,Progress Software Corporation,PRGS,253
+2059,Park,PKOH,253
+2020,Pro,PDEX,253
+2018,"PDC Energy, Inc.",PDCE,253
+1943,"OptimumBank Holdings, Inc.",OPHC,253
+1968,"Otonomy, Inc.",OTIC,253
+1985,Pan American Silver Corp.,PAAS,253
+2138,"PriceSmart, Inc.",PSMT,253
+1983,Oxford Lane Capital Corp.,OXLCP,253
+1980,Oxford Lane Capital Corp.,OXLC,253
+2140,"Pluristem Therapeutics, Inc.",PSTI,253
+1976,Oxbridge Re Holdings Limited,OXBR,253
+1974,Oak Valley Bancorp (CA),OVLY,253
+1973,Ohio Valley Banc Corp.,OVBC,253
+2145,PTC Inc.,PTC,253
+1970,Otter Tail Corporation,OTTR,253
+2146,"PTC Therapeutics, Inc.",PTCT,253
+1967,Open Text Corporation,OTEX,253
+2017,PowerShares DB Optimum Yield Diversified Commodity Strategy Portfolio,PDBC,253
+2147,Patterson,PTEN,253
+1965,"OraSure Technologies, Inc.",OSUR,253
+1964,"Overstock.com, Inc.",OSTK,253
+1961,"OSI Systems, Inc.",OSIS,253
+1957,"Old Second Bancorp, Inc.",OSBC,253
+1956,Orrstown Financial Services Inc,ORRF,253
+2153,"P.A.M. Transportation Services, Inc.",PTSI,253
+1954,Oramed Pharmaceuticals Inc.,ORMP,253
+1953,"O'Reilly Automotive, Inc.",ORLY,253
+2158,"Penns Woods Bancorp, Inc.",PWOD,253
+1946,"Ocean Power Technologies, Inc.",OPTT,253
+1986,"Pacific Biosciences of California, Inc.",PACB,253
+1987,PacWest Bancorp,PACW,253
+1989,Phibro Animal Health Corporation,PAHC,253
+1990,Pangaea Logistics Solutions Ltd.,PANL,253
+2016,Pure Cycle Corporation,PCYO,253
+2015,"Park City Group, Inc.",PCYG,253
+2125,PowerShares S&P SmallCap Consumer Staples Portfolio,PSCC,253
+2013,Paylocity Holding Corporation,PCTY,253
+2012,PC,PCTI,253
+2011,"Pacira Pharmaceuticals, Inc.",PCRX,253
+2010,"Points International, Ltd.",PCOM,253
+2126,PowerShares S&P SmallCap Consumer Discretionary Portfolio,PSCD,253
+2127,PowerShares S&P SmallCap Energy Portfolio,PSCE,253
+2128,PowerShares S&P SmallCap Financials Portfolio,PSCF,253
+2006,Potlatch Corporation,PCH,253
+2129,PowerShares S&P SmallCap Health Care Portfolio,PSCH,253
+2130,PowerShares S&P SmallCap Industrials Portfolio,PSCI,253
+2003,PACCAR Inc.,PCAR,253
+2131,PowerShares S&P SmallCap Materials Portfolio,PSCM,253
+2001,Potbelly Corporation,PBPB,253
+2132,PowerShares S&P SmallCap Information Technology Portfolio,PSCT,253
+1999,"Prudential Bancorp, Inc.",PBIP,253
+2133,PowerShares S&P SmallCap Utilities Portfolio,PSCU,253
+1996,"People's United Financial, Inc.",PBCT,253
+1994,"Paychex, Inc.",PAYX,253
+1993,"Patrick Industries, Inc.",PATK,253
+2135,Prospect Capital Corporation,PSEC,253
+1807,"Nature's Sunshine Products, Inc.",NATR,253
+1804,"Nathan's Famous, Inc.",NATH,253
+1496,"Kelly Services, Inc.",KELYA,253
+2312,"Sanderson Farms, Inc.",SAFM,253
+2303,"Revance Therapeutics, Inc.",RVNC,253
+1599,Logitech International S.A.,LOGI,253
+1598,"El Pollo Loco Holdings, Inc.",LOCO,253
+2304,Riverview Bancorp Inc,RVSB,253
+1596,"Manhattan Bridge Capital, Inc",LOAN,253
+1595,Landec Corporation,LNDC,253
+2305,ReWalk Robotics Ltd,RWLK,253
+1591,Landmark Infrastructure Partners LP,LMRK,253
+2308,Ryanair Holdings plc,RYAAY,253
+2310,Sabre Corporation,SABR,253
+1587,Limoneira Co,LMNR,253
+2313,"Safety Insurance Group, Inc.",SAFT,253
+1604,"Grand Canyon Education, Inc.",LOPE,253
+2314,"Sage Therapeutics, Inc.",SAGE,253
+1582,First Trust Low Duration Mortgage Opportunities ETF,LMBS,253
+1581,"LeMaitre Vascular, Inc.",LMAT,253
+2315,"Saia, Inc.",SAIA,253
+1579,"Limelight Networks, Inc.",LLNW,253
+1577,LKQ Corporation,LKQ,253
+1576,Lakeland Financial Corporation,LKFN,253
+1575,La Jolla Pharmaceutical Company,LJPC,253
+1574,"LiveDeal, Inc.",LIVE,253
+2319,Salem Communications Corporation,SALM,253
+2320,Silvercrest Asset Management Group Inc.,SAMG,253
+2300,"Ruth's Hospitality Group, Inc.",RUTH,253
+2299,"Rush Enterprises, Inc.",RUSHB,253
+2211,Rent,RCII,253
+1628,Luna Innovations Incorporated,LUNA,253
+1641,"Marathon Patent Group, Inc.",MARA,253
+1640,Marriott International,MAR,253
+1639,ManTech International Corporation,MANT,253
+1638,"Manhattan Associates, Inc.",MANH,253
+2289,R.R. Donnelley & Sons Company,RRD,253
+2290,"Red Robin Gourmet Burgers, Inc.",RRGB,253
+1635,"Magnetek, Inc.",MAG,253
+1634,"Merrimack Pharmaceuticals, Inc.",MACK,253
+1633,LSI Industries Inc.,LYTS,253
+1632,"Lexicon Pharmaceuticals, Inc.",LXRX,253
+1631,"Lifeway Foods, Inc.",LWAY,253
+1627,lululemon athletica inc.,LULU,253
+1607,Lipocine Inc.,LPCN,253
+1625,"Lantronix, Inc.",LTRX,253
+1623,"Liberty TripAdvisor Holdings, Inc.",LTRPA,253
+1621,Lightbridge Corporation,LTBR,253
+1620,"Landstar System, Inc.",LSTR,253
+1619,Lattice Semiconductor Corporation,LSCC,253
+1617,Lam Research Corporation,LRCX,253
+1615,"Liquidity Services, Inc.",LQDT,253
+1613,"LightPath Technologies, Inc.",LPTH,253
+1612,"LivePerson, Inc.",LPSN,253
+1609,LPL Financial Holdings Inc.,LPLA,253
+2298,"Rush Enterprises, Inc.",RUSHA,253
+1569,Lincoln Educational Services Corporation,LINC,253
+2321,Sanmina Corporation,SANM,253
+1567,LHC Group,LHCG,253
+1517,Kopin Corporation,KOPN,253
+2334,Star Bulk Carriers Corp.,SBLK,253
+2336,Signature Bank,SBNY,253
+2338,"Sabra Healthcare REIT, Inc.",SBRA,253
+1528,KraneShares CSI China Internet ETF,KWEB,253
+1527,"KVH Industries, Inc.",KVHI,253
+1524,"Kratos Defense & Security Solutions, Inc.",KTOS,253
+1522,Key Tronic Corporation,KTCC,253
+1521,Kearny Financial,KRNY,253
+2341,"Southside Bancshares, Inc.",SBSI,253
+1519,Karyopharm Therapeutics Inc.,KPTI,253
+1518,Koss Corporation,KOSS,253
+2342,Starbucks Corporation,SBUX,253
+1566,Ligand Pharmaceuticals Incorporated,LGND,253
+2344,Scholastic Corporation,SCHL,253
+1513,"Kandi Technologies Group, Inc.",KNDI,253
+1512,Kamada Ltd.,KMDA,253
+2345,"Schnitzer Steel Industries, Inc.",SCHN,253
+1510,"Kulicke and Soffa Industries, Inc.",KLIC,253
+1509,KLA,KLAC,253
+1507,"Kirkland's, Inc.",KIRK,253
+1506,"Kingstone Companies, Inc",KINS,253
+1502,"Kforce, Inc.",KFRC,253
+2350,"comScore, Inc.",SCOR,253
+1498,Kewaunee Scientific Corporation,KEQU,253
+1534,"Lakeland Industries, Inc.",LAKE,253
+2333,"Sinclair Broadcast Group, Inc.",SBGI,253
+1536,Lamar Advertising Company,LAMR,253
+1537,Lancaster Colony Corporation,LANC,253
+1565,"LGI Homes, Inc.",LGIH,253
+2322,S&W Seed Company,SANW,253
+1561,Lifevantage Corporation,LFVN,253
+1560,"Littelfuse, Inc.",LFUS,253
+2325,"Sandy Spring Bancorp, Inc.",SASR,253
+2326,EchoStar Corporation,SATS,253
+2327,"Spirit Airlines, Inc.",SAVE,253
+1556,SemiLEDS Corporation,LEDS,253
+1555,"Lincoln Electric Holdings, Inc.",LECO,253
+1554,"Lands' End, Inc.",LE,253
+2328,SBA Communications Corporation,SBAC,253
+1551,"Lifetime Brands, Inc.",LCUT,253
+1550,LCNB Corporation,LCNB,253
+1549,Liberty Global plc,LBTYK,253
+1547,Liberty Global plc,LBTYA,253
+2330,Seacoast Banking Corporation of Florida,SBCF,253
+1545,Liberty Broadband Corporation,LBRDK,253
+1544,Liberty Broadband Corporation,LBRDA,253
+1542,"Lakeland Bancorp, Inc.",LBAI,253
+2332,"SB Financial Group, Inc.",SBFG,253
+1540,"Lawson Products, Inc.",LAWS,253
+1539,Landmark Bancorp Inc.,LARK,253
+1538,Gladstone Land Corporation,LAND,253
+1642,"Remark Media, Inc.",MARK,253
+1643,Marine Petroleum Trust,MARPS,253
+1644,Masimo Corporation,MASI,253
+1752,Momo Inc.,MOMO,253
+1767,"Marten Transport, Ltd.",MRTN,253
+1766,"Marinus Pharmaceuticals, Inc.",MRNS,253
+1765,Marlin Business Services Corp.,MRLN,253
+2232,"Richardson Electronics, Ltd.",RELL,253
+1761,Mercury Systems Inc,MRCY,253
+1760,Monroe Capital Corporation,MRCC,253
+1759,"Monolithic Power Systems, Inc.",MPWR,253
+1756,Mid Penn Bancorp,MPB,253
+1755,"Motorcar Parts of America, Inc.",MPAA,253
+1754,"MoSys, Inc.",MOSY,253
+1753,"Morningstar, Inc.",MORN,253
+2236,"Recro Pharma, Inc.",REPH,253
+1733,Martin Midstream Partners L.P.,MMLP,253
+1749,"MidWestOne Financial Group, Inc.",MOFG,253
+2237,Resonant Inc.,RESN,253
+1745,"Manitex International, Inc.",MNTX,253
+1743,Monster Beverage Corporation,MNST,253
+1742,"Monro Muffler Brake, Inc.",MNRO,253
+2240,"RF Industries, Ltd.",RFIL,253
+1740,"MediciNova, Inc.",MNOV,253
+1739,MannKind Corporation,MNKD,253
+2241,RGC Resources Inc.,RGCO,253
+1737,MIND C.T.I. Ltd.,MNDO,253
+1735,MakeMyTrip Limited,MMYT,253
+1768,"Mirati Therapeutics, Inc.",MRTX,253
+2230,"Regeneron Pharmaceuticals, Inc.",REGN,253
+1770,Marvell Technology Group Ltd.,MRVL,253
+2229,"Renewable Energy Group, Inc.",REGI,253
+2212,"Rocky Brands, Inc.",RCKY,253
+1801,"Natural Alternatives International, Inc.",NAII,253
+2213,"RCM Technologies, Inc.",RCMT,253
+1799,"MYR Group, Inc.",MYRG,253
+2214,"Recon Technology, Ltd.",RCON,253
+1796,"Myriad Genetics, Inc.",MYGN,253
+2217,Radcom Ltd.,RDCM,253
+1792,"Microvision, Inc.",MVIS,253
+2219,Redhill Biopharma Ltd.,RDHL,253
+1790,"Micron Technology, Inc.",MU,253
+2220,Reading International Inc,RDI,253
+1787,M/A,MTSI,253
+2222,"RadNet, Inc.",RDNT,253
+1785,Matrix Service Company,MTRX,253
+1784,Materialise NV,MTLS,253
+2223,"Radius Health, Inc.",RDUS,253
+2224,First Trust NASDAQ Rising Dividend Achievers ETF,RDVY,253
+1780,"Medical Transcription Billing, Corp.",MTBC,253
+1779,MicroStrategy Incorporated,MSTR,253
+2225,Radware Ltd.,RDWR,253
+1775,Microsoft Corporation,MSFT,253
+1773,Middlesex Water Company,MSEX,253
+2228,Research Frontiers Incorporated,REFR,253
+1734,"Merit Medical Systems, Inc.",MMSI,253
+2244,Repligen Corporation,RGEN,253
+1645,"Mattel, Inc.",MAT,253
+2277,RBC Bearings Incorporated,ROLL,253
+1687,"MEI Pharma, Inc.",MEIP,253
+2266,Renasant Corporation,RNST,253
+2267,"RealNetworks, Inc.",RNWK,253
+2268,Robo,ROBO,253
+1682,"MiMedx Group, Inc",MDXG,253
+1681,MediWound Ltd.,MDWD,253
+2269,"Gibraltar Industries, Inc.",ROCK,253
+2272,Retail Opportunity Investments Corp.,ROIC,253
+1676,"Allscripts Healthcare Solutions, Inc.",MDRX,253
+1674,"Mondelez International, Inc.",MDLZ,253
+1673,First Trust Exchange,MDIV,253
+1667,"Monarch Casino & Resort, Inc.",MCRI,253
+1728,"Herman Miller, Inc.",MLHR,253
+1665,"Marchex, Inc.",MCHX,253
+1664,Microchip Technology Incorporated,MCHP,253
+2280,"Ross Stores, Inc.",ROST,253
+1660,Macatawa Bank Corporation,MCBC,253
+1659,Mercantile Bank Corporation,MBWM,253
+1657,"Malibu Boats, Inc.",MBUU,253
+1655,FlexShares Disciplined Duration MBS Index Fund,MBSD,253
+2284,Repros Therapeutics Inc.,RPRX,253
+1652,"Marrone Bio Innovations, Inc.",MBII,253
+1649,Middlefield Banc Corp.,MBCN,253
+1647,Matthews International Corporation,MATW,253
+1689,"MercadoLibre, Inc.",MELI,253
+2264,Prosensa Holding N.V.,RNA,253
+2263,"Rockwell Medical, Inc.",RMTI,253
+1693,Methanex Corporation,MEOH,253
+1727,"Mesa Laboratories, Inc.",MLAB,253
+1726,"MarketAxess Holdings, Inc.",MKTX,253
+2245,"Royal Gold, Inc.",RGLD,253
+1724,"MKS Instruments, Inc.",MKSI,253
+2246,Regulus Therapeutics Inc.,RGLS,253
+1722,"Mitek Systems, Inc.",MITK,253
+1720,"Mitcham Industries, Inc.",MIND,253
+2248,RiceBran Technologies,RIBT,253
+1717,The Middleby Corporation,MIDD,253
+2250,"RCI Hospitality Holdings, Inc.",RICK,253
+1715,"Micronet Enertec Technologies, Inc.",MICT,253
+2251,"Rigel Pharmaceuticals, Inc.",RIGL,253
+1713,"Maiden Holdings, Ltd.",MHLD,253
+1710,McGrath RentCorp,MGRC,253
+1709,"MGP Ingredients, Inc.",MGPI,253
+1708,"MacroGenics, Inc.",MGNX,253
+1707,"Magellan Health, Inc.",MGLN,253
+1706,Magic Software Enterprises Ltd.,MGIC,253
+1705,"Moneygram International, Inc.",MGI,253
+1704,MGE Energy Inc.,MGEE,253
+2260,"Rambus, Inc.",RMBS,253
+2261,"Rocky Mountain Chocolate Factory, Inc.",RMCF,253
+1694,Mercer International Inc.,MERC,253
+2595,Bio,TECH,253
+1047,"FormFactor, Inc.",FORM,253
+2093,Pacific Premier Bancorp Inc,PPBI,253
+240,Atossa Genetics Inc.,ATOS,253
+235,Atlanticus Holdings Corporation,ATLC,253
+544,Calamos Convertible and High Income Fund,CHY,253
+236,Ames National Corporation,ATLO,253
+238,Atlantic Tele,ATNI,253
+542,Calamos Global Dynamic Income Fund,CHW,253
+541,"Chuy's Holdings, Inc.",CHUY,253
+540,"Charter Communications, Inc.",CHTR,253
+539,CHS Inc,CHSCP,253
+538,CHS Inc,CHSCO,253
+529,Check Point Software Technologies Ltd.,CHKP,253
+537,CHS Inc,CHSCN,253
+536,CHS Inc,CHSCM,253
+535,"C.H. Robinson Worldwide, Inc.",CHRW,253
+241,"Atara Biotherapeutics, Inc.",ATRA,253
+534,"Coherus BioSciences, Inc.",CHRS,253
+532,"China Natural Resources, Inc.",CHNR,253
+242,"AtriCure, Inc.",ATRC,253
+531,Chemung Financial Corp,CHMG,253
+546,Cinedigm Corp,CIDM,253
+234,"Athersys, Inc.",ATHX,253
+232,"Alphatec Holdings, Inc.",ATEC,253
+2870,"WhiteHorse Finance, Inc.",WHF,253
+218,ASML Holding N.V.,ASML,253
+2872,"Wilhelmina International, Inc.",WHLM,253
+220,Altisource Portfolio Solutions S.A.,ASPS,253
+222,AmeriServ Financial Inc.,ASRV,253
+2734,"Unity Bancorp, Inc.",UNTY,253
+224,Astrotech Corporation,ASTC,253
+225,"Astec Industries, Inc.",ASTE,253
+226,"Ascent Solar Technologies, Inc.",ASTI,253
+2738,"Upland Software, Inc.",UPLD,253
+2739,"Urban Outfitters, Inc.",URBN,253
+554,China Jo,CJJD,253
+227,Asure Software Inc,ASUR,253
+228,"Amtech Systems, Inc.",ASYS,253
+230,"America First Multifamily Investors, L.P.",ATAX,253
+2741,"USA Truck, Inc.",USAK,253
+549,Cincinnati Financial Corporation,CINF,253
+2742,"Universal Stainless & Alloy Products, Inc.",USAP,253
+2747,U.S. Energy Corp.,USEG,253
+2748,"United States Lime & Minerals, Inc.",USLM,253
+2698,Travelzoo Inc.,TZOO,253
+506,C&F Financial Corporation,CFFI,253
+255,Aurinia Pharmaceuticals Inc,AUPH,253
+2755,"Utah Medical Products, Inc.",UTMD,253
+2862,Wendy's Company (The),WEN,253
+2756,UTStarcom Holdings Corp,UTSI,253
+257,"AeroVironment, Inc.",AVAV,253
+258,"AVEO Pharmaceuticals, Inc.",AVEO,253
+507,"Capitol Federal Financial, Inc.",CFFN,253
+259,Avago Technologies Limited,AVGO,253
+261,"Avid Technology, Inc.",AVID,253
+527,Calamos Convertible Opportunities and Income Fund,CHI,253
+263,"Aviat Networks, Inc.",AVNW,253
+504,Compass EMP US 500 Volatility Weighted Index ETF,CFA,253
+503,"CEVA, Inc.",CEVA,253
+2757,Univest Corporation of Pennsylvania,UVSP,253
+264,"HomeAway, Inc.",AWAY,253
+265,"Aware, Inc.",AWRE,253
+500,Cerus Corporation,CERS,253
+499,Cerner Corporation,CERN,253
+511,Compass EMP US 500 Enhanced Volatility Weighted Index ETF,CFO,253
+512,ContraFect Corporation,CFRX,253
+2863,"Werner Enterprises, Inc.",WERN,253
+2864,"WisdomTree Investments, Inc.",WETF,253
+243,ATRION Corporation,ATRI,253
+245,Astronics Corporation,ATRO,253
+246,"Antares Pharma, Inc.",ATRS,253
+247,"Air Transport Services Group, Inc",ATSG,253
+523,"The Chefs' Warehouse, Inc.",CHEF,253
+522,"Churchill Downs, Incorporated",CHDN,253
+521,City Holding Company,CHCO,253
+249,"Activision Blizzard, Inc",ATVI,253
+250,"Auburn National Bancorporation, Inc.",AUBN,253
+520,"Comstock Holding Companies, Inc.",CHCI,253
+519,Calamos Global Total Return Fund,CGO,253
+518,Cognex Corporation,CGNX,253
+251,AudioCodes Ltd.,AUDC,253
+516,Compugen Ltd.,CGEN,253
+2865,"Weyco Group, Inc.",WEYS,253
+515,The Carlyle Group L.P.,CG,253
+2753,United Therapeutics Corporation,UTHR,253
+563,"Celldex Therapeutics, Inc.",CLDX,253
+564,"Clearfield, Inc.",CLFD,253
+565,ClearSign Combustion Corporation,CLIR,253
+618,Columbia Sportswear Company,COLM,253
+198,Ark Restaurants Corp.,ARKR,253
+199,"Alliance Resource Partners, L.P.",ARLP,253
+622,"Conn's, Inc.",CONN,253
+621,CyrusOne Inc,CONE,253
+620,iShares Commodities Select Strategy ETF,COMT,253
+619,"CommScope Holding Company, Inc.",COMM,253
+2883,Wix.com Ltd.,WIX,253
+201,"Arena Pharmaceuticals, Inc.",ARNA,253
+617,"Columbia Banking System, Inc.",COLB,253
+2731,"United Natural Foods, Inc.",UNFI,253
+616,Coca,COKE,253
+615,"Cohu, Inc.",COHU,253
+614,"Coherent, Inc.",COHR,253
+202,Arrow Financial Corporation,AROW,253
+2882,Encore Wire Corporation,WIRE,253
+2881,Winmark Corporation,WINA,253
+2708,"United Bankshares, Inc.",UBSI,253
+2710,"United Community Banks, Inc.",UCBI,253
+2886,"Willdan Group, Inc.",WLDN,253
+2887,Willis Lease Finance Corporation,WLFC,253
+192,"Ardelyx, Inc.",ARDX,253
+355,Vanguard Total International Bond ETF,BNDX,253
+171,Alpha and Omega Semiconductor Limited,AOSL,253
+2898,Westport Innovations Inc,WPRT,253
+2700,iShares MSCI UAE Capped ETF,UAE,253
+173,Applied DNA Sciences Inc,APDN,253
+2701,"United Bancorp, Inc.",UBCP,253
+2702,United Security Bancshares,UBFO,253
+175,"American Public Education, Inc.",APEI,253
+631,"Cowen Group, Inc.",COWNL,253
+176,"Apogee Enterprises, Inc.",APOG,253
+630,"Cowen Group, Inc.",COWN,253
+2894,iShares S&P Global Timber & Forestry Index Fund,WOOD,253
+181,"Aptose Biosciences, Inc.",APTO,253
+182,Asia Pacific Wire & Cable Corporation Limited,APWC,253
+628,Costco Wholesale Corporation,COST,253
+184,Accuray Incorporated,ARAY,253
+185,ArcBest Corporation,ARCB,253
+626,Corcept Therapeutics Incorporated,CORT,253
+205,Array BioPharma Inc.,ARRY,253
+2712,"Ultra Clean Holdings, Inc.",UCTT,253
+606,"Century Casinos, Inc.",CNTY,253
+2723,Ultralife Corporation,ULBI,253
+583,CME Group Inc.,CME,253
+582,CIM Commercial Trust Corporation,CMCT,253
+216,"Assembly Biosciences, Inc.",ASMB,253
+580,Comcast Corporation,CMCSA,253
+579,Columbus McKinnon Corporation,CMCO,253
+578,Euro Tech Holdings Company Limited,CLWT,253
+577,"Clovis Oncology, Inc.",CLVS,253
+2873,"Wheeler Real Estate Investment Trust, Inc.",WHLR,253
+2726,Ultrapetrol (Bahamas) Limited,ULTR,253
+2727,UMB Financial Corporation,UMBF,253
+574,Celsion Corporation,CLSN,253
+2728,Umpqua Holdings Corporation,UMPQ,253
+572,"ClearOne, Inc.",CLRO,253
+570,"Cellectar Biosciences, Inc.",CLRB,253
+2730,"Union Bankshares, Inc.",UNB,253
+568,Clean Energy Fuels Corp.,CLNE,253
+567,"Calumet Specialty Products Partners, L.P.",CLMT,253
+2724,"Ulta Salon, Cosmetics & Fragrance, Inc.",ULTA,253
+586,Cumulus Media Inc.,CMLS,253
+604,"Consolidated Communications Holdings, Inc.",CNSL,253
+587,Cimpress N.V,CMPR,253
+2714,Universal Electronics Inc.,UEIC,253
+602,"ConnectOne Bancorp, Inc.",CNOB,253
+601,CONMED Corporation,CNMD,253
+2715,"Net 1 UEPS Technologies, Inc.",UEPS,253
+2716,"United Fire Group, Inc",UFCS,253
+2717,"Universal Forest Products, Inc.",UFPI,253
+206,Artesian Resources Corporation,ARTNA,253
+2718,"UFP Technologies, Inc.",UFPT,253
+2719,United,UG,253
+595,"ChinaNet Online Holdings, Inc.",CNET,253
+207,Art's,ARTW,253
+210,Arrowhead Research Corporation,ARWR,253
+593,"Concert Pharmaceuticals, Inc.",CNCE,253
+2721,Amerco,UHAL,253
+590,Comtech Telecommunications Corp.,CMTL,253
+2722,United Insurance Holdings Corp.,UIHC,253
+588,"Chimerix, Inc.",CMRX,253
+266,Abraxas Petroleum Corporation,AXAS,253
+498,"Ceres, Inc.",CERE,253
+497,Century Aluminum Company,CENX,253
+2834,Vanguard Short,VTIP,253
+2799,"21Vianet Group, Inc.",VNET,253
+408,Camden National Corporation,CAC,253
+407,"China Automotive Systems, Inc.",CAAS,253
+2836,"Vertex Energy, Inc",VTNR,253
+2800,Viper Energy Partners LP,VNOM,253
+2801,Vanguard Global ex,VNQI,253
+404,Broadway Financial Corporation,BYFC,253
+326,"Biolase, Inc.",BIOL,253
+329,ProShares UltraShort Nasdaq Biotechnology,BIS,253
+430,CalAmp Corp.,CAMP,253
+330,"BJ's Restaurants, Inc.",BJRI,253
+331,BlackRock Kelso Capital Corporation,BKCC,253
+332,"Blueknight Energy Partners L.P., L.L.C.",BKEP,253
+399,"Bankwell Financial Group, Inc.",BWFG,253
+398,"Broadwind Energy, Inc.",BWEN,253
+2806,Vodafone Group Plc,VOD,253
+333,"Blueknight Energy Partners L.P., L.L.C.",BKEPP,253
+395,"Bazaarvoice, Inc.",BV,253
+410,Credit Acceptance Corporation,CACC,253
+411,Chart Acquisition Corp.,CACG,253
+2798,Vanda Pharmaceuticals Inc.,VNDA,253
+2797,Vanguard Mortgage,VMBS,253
+311,"Beacon Roofing Supply, Inc.",BECN,253
+426,Cal,CALM,253
+313,Bel Fuse Inc.,BELFB,253
+2790,Virco Manufacturing Corporation,VIRC,253
+422,"Calithera Biosciences, Inc.",CALA,253
+314,BankFinancial Corporation,BFIN,253
+421,The Cheesecake Factory Incorporated,CAKE,253
+315,"BGC Partners, Inc.",BGCP,253
+316,Big 5 Sporting Goods Corporation,BGFV,253
+2838,Vanguard Russell 2000 Growth ETF,VTWG,253
+2792,Meridian Bioscience Inc.,VIVO,253
+319,ProShares Ultra Nasdaq Biotechnology,BIB,253
+320,First Trust BICK Index Fund,BICK,253
+2794,"Village Super Market, Inc.",VLGEA,253
+321,"Baidu, Inc.",BIDU,253
+322,Biogen Idec Inc.,BIIB,253
+324,"Biocept, Inc.",BIOC,253
+394,First Busey Corporation,BUSE,253
+393,Burcon NutraScience Corp,BUR,253
+2808,Vanguard Russell 1000 ETF,VONE,253
+374,Bio,BPTH,253
+371,"Popular, Inc.",BPOP,253
+2817,"Varonis Systems, Inc.",VRNS,253
+346,"bluebird bio, Inc.",BLUE,253
+2818,Verint Systems Inc.,VRNT,253
+2819,"Verisk Analytics, Inc.",VRSK,253
+2830,VSE Corporation,VSEC,253
+2820,"VeriSign, Inc.",VRSN,253
+365,B.O.S. Better Online Solutions,BOSC,253
+364,Dynamic Materials Corporation,BOOM,253
+350,Bank of Marin Bancorp,BMRC,253
+361,BOK Financial Corporation,BOKF,253
+351,BioMarin Pharmaceutical Inc.,BMRN,253
+352,Bryn Mawr Bank Corporation,BMTC,253
+2823,"Virtus Investment Partners, Inc.",VRTS,253
+2827,"ViaSat, Inc.",VSAT,253
+2825,Vertex Pharmaceuticals Incorporated,VRTX,253
+357,"Bonso Electronics International, Inc.",BNSO,253
+345,BioLineRx Ltd.,BLRX,253
+2831,"Verastem, Inc.",VSTM,253
+2809,Vanguard Russell 1000 Growth ETF,VONG,253
+343,"Bloomin' Brands, Inc.",BLMN,253
+2833,Vanguard Russell 3000 ETF,VTHR,253
+390,Sierra Bancorp,BSRR,253
+389,BSQUARE Corporation,BSQR,253
+337,"Bellicum Pharmaceuticals, Inc.",BLCM,253
+2810,Vanguard Russell 1000 Value ETF,VONV,253
+2811,VOXX International Corporation,VOXX,253
+385,"Bassett Furniture Industries, Incorporated",BSET,253
+338,"Ballard Power Systems, Inc.",BLDP,253
+339,"Builders FirstSource, Inc.",BLDR,253
+340,"BioLife Solutions, Inc.",BLFS,253
+382,"Brooks Automation, Inc.",BRKS,253
+381,Bruker Corporation,BRKR,253
+380,"Brookline Bancorp, Inc.",BRKL,253
+379,Bridgford Foods Corporation,BRID,253
+341,"Bridgeline Digital, Inc.",BLIN,253
+2813,"Vera Bradley, Inc.",VRA,253
+342,"Blackbaud, Inc.",BLKB,253
+2839,Vanguard Russell 2000 ETF,VTWO,253
+431,Camtek Ltd.,CAMT,253
+267,"Accelerate Diagnostics, Inc.",AXDX,253
+283,BioShares Biotechnology Clinical Trials Fund,BBC,253
+280,StoneCastle Financial Corp,BANX,253
+478,"Cross Country Healthcare, Inc.",CCRN,253
+477,"Cogent Communications Holdings, Inc.",CCOI,253
+476,CNB Financial Corporation,CCNE,253
+475,Cabot Microelectronics Corporation,CCMP,253
+2854,Weibo Corporation,WB,253
+282,Bed Bath & Beyond Inc.,BBBY,253
+474,CSI Compressco LP,CCLP,253
+2763,VBI Vaccines Inc.,VBIV,253
+307,"BioDelivery Sciences International, Inc.",BDSI,253
+2764,Vascular Biogenics Ltd.,VBLT,253
+470,Capital City Bank Group,CCBG,253
+2851,Energous Corporation,WATT,253
+2765,Vident Core U.S. Bond Strategy Fund,VBND,253
+287,"Beasley Broadcast Group, Inc.",BBGI,253
+2766,"Veritex Holdings, Inc.",VBTX,253
+2767,Vericel Corporation,VCEL,253
+466,"Commerce Bancshares, Inc.",CBSH,253
+480,"ChemoCentryx, Inc.",CCXI,253
+279,Banner Corporation,BANR,253
+481,Compass EMP U S EQ Income 100 Enhanced Volatility Weighted Fund,CDC,253
+482,"CDK Global, Inc.",CDK,253
+496,Central Garden & Pet Company,CENTA,253
+495,Central Garden & Pet Company,CENT,253
+2759,"Value Line, Inc.",VALU,253
+493,"Chembio Diagnostics, Inc.",CEMI,253
+268,"AxoGen, Inc.",AXGN,253
+2860,WD,WDFC,253
+2859,Western Digital Corporation,WDC,253
+272,AXT Inc,AXTI,253
+273,"Aspen Technology, Inc.",AZPN,253
+489,CECO Environmental Corp.,CECE,253
+488,"Cadiz, Inc.",CDZI,253
+487,"Codexis, Inc.",CDXS,253
+486,CDW Corporation,CDW,253
+2855,"Walgreens Boots Alliance, Inc.",WBA,253
+277,BancFirst Corporation,BANF,253
+484,"Cadence Design Systems, Inc.",CDNS,253
+483,"CareDx, Inc.",CDNA,253
+2768,Vanguard Intermediate,VCIT,253
+464,"Cracker Barrel Old Country Store, Inc.",CBRL,253
+2769,Vanguard Long,VCLT,253
+444,"Cass Information Systems, Inc",CASS,253
+2845,Vanguard Total International Stock ETF,VXUS,253
+442,"CASI Pharmaceuticals, Inc.",CASI,253
+298,"Blucora, Inc.",BCOR,253
+441,"Meta Financial Group, Inc.",CASH,253
+440,First Trust NASDAQ Global Auto Index Fund,CARZ,253
+439,"Carver Bancorp, Inc.",CARV,253
+2782,Vicor Corporation,VICR,253
+299,Brightcove Inc.,BCOV,253
+300,Balchem Corporation,BCPC,253
+301,"BioCryst Pharmaceuticals, Inc.",BCRX,253
+2843,Vanguard Emerging Markets Government Bond ETF,VWOB,253
+2841,Vident Core US Equity ETF,VUSE,253
+2784,Vident International Equity Fund,VIDI,253
+435,"Cara Therapeutics, Inc.",CARA,253
+2840,Vanguard Russell 2000 Value ETF,VTWV,253
+434,"Avis Budget Group, Inc.",CAR,253
+2785,"Viewtran Group, Inc.",VIEW,253
+296,Brainstorm Cell Therapeutics Inc.,BCLI,253
+295,"BCB Bancorp, Inc. (NJ)",BCBP,253
+462,"CBOE Holdings, Inc.",CBOE,253
+445,"Caseys General Stores, Inc.",CASY,253
+2850,"Washington Trust Bancorp, Inc.",WASH,253
+461,"Chicopee Bancorp, Inc.",CBNK,253
+2848,"Washington Federal, Inc.",WAFD,253
+2770,Vanguard Short,VCSH,253
+2771,"Veracyte, Inc.",VCYT,253
+2773,Veeco Instruments Inc.,VECO,253
+291,BioShares Biotechnology Products Fund,BBP,253
+455,"CB Financial Services, Inc.",CBFV,253
+2775,Vanguard Intermediate,VGIT,253
+2776,Vanguard Long,VGLT,253
+452,CymaBay Therapeutics Inc.,CBAY,253
+451,"Colony Bankcorp, Inc.",CBAN,253
+2777,Vanguard Short,VGSH,253
+2778,Viacom Inc.,VIA,253
+2847,Westamerica Bancorporation,WABC,253
+447,Cathay General Bancorp,CATY,253
+294,"Barrett Business Services, Inc.",BBSI,253
+637,Cumberland Pharmaceuticals Inc.,CPIX,253
+186,Ares Capital Corporation,ARCC,253
+639,Capital Product Partners L.P.,CPLP,253
+2639,Tuniu Corporation,TOUR,253
+2641,ProShares UltraPro QQQ,TQQQ,253
+792,DURECT Corporation,DRRX,253
+791,"Dicerna Pharmaceuticals, Inc.",DRNA,253
+790,"Digital River, Inc.",DRIV,253
+2934,DENTSPLY International Inc.,XRAY,253
+79,Affimed N.V.,AFMD,253
+786,Amdocs Limited,DOX,253
+2645,"LendingTree, Inc.",TREE,253
+784,"Dorman Products, Inc.",DORM,253
+2930,XOMA Corporation,XOMA,253
+2647,Trinity Biotech plc,TRIB,253
+781,Digimarc Corporation,DMRC,253
+779,"Dorchester Minerals, L.P.",DMLP,253
+778,"Dollar Tree, Inc.",DLTR,253
+777,DLH Holdings Corp.,DLHC,253
+2649,"TripAdvisor, Inc.",TRIP,253
+82,Agenus Inc.,AGEN,253
+2640,Towne Bank,TOWN,253
+2935,XTL Biopharmaceuticals Ltd.,XTLB,253
+773,DISH Network Corporation,DISH,253
+2637,TOP Ships Inc.,TOPS,253
+811,Dynavax Technologies Corporation,DVAX,253
+2942,The York Water Company,YORW,253
+60,"Autodesk, Inc.",ADSK,253
+61,"ADTRAN, Inc.",ADTN,253
+62,Addus HomeCare Corporation,ADUS,253
+64,"Advaxis, Inc.",ADXS,253
+2940,Yandex N.V.,YNDX,253
+68,Aehr Test Systems,AEHR,253
+2634,"Tandem Diabetes Care, Inc.",TNDM,253
+803,"Deswell Industries, Inc.",DSWL,253
+802,"DSP Group, Inc.",DSPG,253
+69,"Advanced Energy Industries, Inc.",AEIS,253
+71,"Aerie Pharmaceuticals, Inc.",AERI,253
+73,"ADDvantage Technologies Group, Inc.",AEY,253
+74,AEterna Zentaris Inc.,AEZS,253
+2636,Tonix Pharmaceuticals Holding Corp.,TNXP,253
+798,The Descartes Systems Group Inc.,DSGX,253
+774,Daily Journal Corp. (S.C.),DJCO,253
+2928,Xunlei Limited,XNET,253
+739,"Citizens Community Bancorp, Inc.",CZWI,253
+93,WisdomTree Barclays U.S. Aggregate Bond Zero Duration Fund,AGZD,253
+95,"Allied Healthcare Products, Inc.",AHPI,253
+751,Denny's Corporation,DENN,253
+750,"Delcath Systems, Inc.",DCTH,253
+96,Altra Industrial Motion Corp.,AIMC,253
+749,"Dime Community Bancshares, Inc.",DCOM,253
+97,Apollo Investment Corporation,AINV,253
+98,"Alliance HealthCare Services, Inc.",AIQ,253
+100,First Trust RBA American Industrial Renaissance ETF,AIRR,253
+747,DBV Technologies S.A.,DBVT,253
+746,Recon Capital DAX Germany ETF,DAX,253
+2658,"T. Rowe Price Group, Inc.",TROW,253
+2659,TriMas Corporation,TRS,253
+742,"Daktronics, Inc.",DAKT,253
+101,"Air T, Inc.",AIRT,253
+103,"Akamai Technologies, Inc.",AKAM,253
+741,Data I/O Corporation,DAIO,253
+2660,TrustCo Bank Corp NY,TRST,253
+2925,"Xilinx, Inc.",XLNX,253
+170,Sphere 3D Corp,ANY,253
+85,"Agios Pharmaceuticals, Inc.",AGIO,253
+2653,"Transcat, Inc.",TRNS,253
+772,"Discovery Communications, Inc.",DISCK,253
+770,"Discovery Communications, Inc.",DISCA,253
+769,Diodes Incorporated,DIOD,253
+86,American Capital Agency Corp.,AGNC,253
+2651,Trimble Navigation Limited,TRMB,253
+767,"Diamond Hill Investment Group, Inc.",DHIL,253
+766,WisdomTree U.S. Dividend Growth Fund,DGRW,253
+765,WisdomTree U.S. SmallCap Dividend Growth Fund,DGRS,253
+764,WisdomTree Emerging Markets Dividend Growth Fund,DGRE,253
+763,"Digital Ally, Inc.",DGLY,253
+2927,"Xencor, Inc.",XNCR,253
+761,Digi International Inc.,DGII,253
+88,American Capital Agency Corp.,AGNCP,253
+759,"Donegal Group, Inc.",DGICA,253
+2652,Trustmark Corporation,TRMK,253
+90,"Agile Therapeutics, Inc.",AGRX,253
+91,Applied Genetic Technologies Corporation,AGTC,253
+58,BLDRS Emerging Markets 50 ADR Index Fund,ADRE,253
+55,"Automatic Data Processing, Inc.",ADP,253
+52,Adamis Pharmaceuticals Corporation,ADMP,253
+2958,ZIOPHARM Oncology Inc,ZIOP,253
+18,"ABIOMED, Inc.",ABMD,253
+863,"Eagle Pharmaceuticals, Inc.",EGRX,253
+2608,Transglobe Energy Corp,TGA,253
+2610,Tecogen Inc.,TGEN,253
+859,Eagle Bulk Shipping Inc.,EGLE,253
+858,8x8 Inc,EGHT,253
+21,ACADIA Pharmaceuticals Inc.,ACAD,253
+857,"Eagle Bancorp, Inc.",EGBN,253
+856,eGain Corporation,EGAN,253
+2611,Tecnoglass Inc.,TGLS,253
+854,Enterprise Financial Services Corporation,EFSC,253
+853,"Energy Focus, Inc.",EFOI,253
+2955,Zions Bancorporation,ZION,253
+2612,"TG Therapeutics, Inc.",TGTX,253
+2613,First Financial Corporation Indiana,THFF,253
+24,Aceto Corporation,ACET,253
+26,"Acorn Energy, Inc.",ACFN,253
+17,"ARCA biopharma, Inc.",ABIO,253
+2607,TFS Financial Corporation,TFSL,253
+51,ADMA Biologics Inc,ADMA,253
+865,"eHealth, Inc.",EHTH,253
+883,Eastern Company (The),EML,253
+882,EMCORE Corporation,EMKR,253
+2,Atlantic American Corporation,AAME,253
+3,"Applied Optoelectronics, Inc.",AAOI,253
+2597,"Tarena International, Inc.",TEDU,253
+4,"AAON, Inc.",AAON,253
+2598,"Tenax Therapeutics, Inc.",TENX,253
+5,Apple Inc.,AAPL,253
+7,Atlas Air Worldwide Holdings,AAWW,253
+874,WisdomTree Emerging Markets Corporate Bond Fund,EMCB,253
+873,Eltek Ltd.,ELTK,253
+8,iShares MSCI All Country Asia ex Japan Index Fund,AAXJ,253
+872,Electro,ELSE,253
+2601,TESSCO Technologies Incorporated,TESS,253
+2963,Zynga Inc.,ZNGA,253
+11,Ameris Bancorp,ABCB,253
+2960,Zix Corporation,ZIXI,253
+27,Arch Capital Group Ltd.,ACGL,253
+849,iShares MSCI Emerging Markets Asia Index Fund,EEMA,253
+28,"Acadia Healthcare Company, Inc.",ACHC,253
+847,"Euronet Worldwide, Inc.",EEFT,253
+829,Electronic Arts Inc.,EA,253
+42,iShares MSCI ACWI Index Fund,ACWI,253
+827,Dynatronics Corporation,DYNT,253
+2622,"Interface, Inc.",TILE,253
+825,"The Dixie Group, Inc.",DXYN,253
+43,iShares MSCI ACWI ex US Index Fund,ACWX,253
+46,Adobe Systems Incorporated,ADBE,253
+823,"DXP Enterprises, Inc.",DXPE,253
+2946,"Zillow, Inc.",Z,253
+2624,Tiptree Financial Inc.,TIPT,253
+821,"Destination XL Group, Inc.",DXLG,253
+48,"Advanced Emissions Solutions, Inc.",ADES,253
+817,"DexCom, Inc.",DXCM,253
+2945,YY Inc.,YY,253
+816,Dawson Geophysical Company,DWSN,253
+2626,Titan Machinery Inc.,TITN,253
+50,"Analog Devices, Inc.",ADI,253
+2621,TigerLogic Corporation,TIGR,253
+832,eBay Inc.,EBAY,253
+2949,Zebra Technologies Corporation,ZBRA,253
+2952,"Zogenix, Inc.",ZGNX,253
+846,Educational Development Corporation,EDUC,253
+2616,Gentherm Inc,THRM,253
+30,"ACI Worldwide, Inc.",ACIW,253
+31,"Axcelis Technologies, Inc.",ACLS,253
+32,ACNB Corporation,ACNB,253
+843,EDAP TMS S.A.,EDAP,253
+33,"Acorda Therapeutics, Inc.",ACOR,253
+840,Encore Capital Group Inc,ECPG,253
+39,Acacia Research Corporation,ACTG,253
+35,"AcelRx Pharmaceuticals, Inc.",ACRX,253
+839,"US Ecology, Inc.",ECOL,253
+837,Enterprise Bancorp Inc,EBTC,253
+835,"Eagle Bancorp Montana, Inc.",EBMT,253
+37,"Acasti Pharma, Inc.",ACST,253
+834,"Ebix, Inc.",EBIX,253
+2950,"Olympic Steel, Inc.",ZEUS,253
+105,"Akebia Therapeutics, Inc.",AKBA,253
+92,"Agilysys, Inc.",AGYS,253
+738,Caesars Entertainment Corporation,CZR,253
+142,"America Movil, S.A.B. de C.V.",AMOV,253
+678,Canadian Solar Inc.,CSIQ,253
+677,"Cardiovascular Systems, Inc.",CSII,253
+139,"Amkor Technology, Inc.",AMKR,253
+140,"American National Bankshares, Inc.",AMNB,253
+676,"CSG Systems International, Inc.",CSGS,253
+141,"Allied Motion Technologies, Inc.",AMOT,253
+675,"CoStar Group, Inc.",CSGP,253
+2681,"TTM Technologies, Inc.",TTMI,253
+680,CSP Inc.,CSPI,253
+143,"Amphastar Pharmaceuticals, Inc.",AMPH,253
+673,Compass EMP U.S. Discovery 500 Enhanced Volatility Weighted Fund,CSF,253
+146,A,AMRK,253
+672,"Cisco Systems, Inc.",CSCO,253
+2682,"T2 Biosystems, Inc.",TTOO,253
+147,Amarin Corporation plc,AMRN,253
+148,"Amyris, Inc.",AMRS,253
+2907,"Wayside Technology Group, Inc.",WSTG,253
+681,Calamos Strategic Total Return Fund,CSQ,253
+128,"Ambac Financial Group, Inc.",AMBC,253
+2677,"TeleTech Holdings, Inc.",TTEC,253
+694,"CareTrust REIT, Inc.",CTRE,253
+2909,West Bancorporation,WTBA,253
+693,CTI BioPharma Corp.,CTIC,253
+133,AMC Networks Inc.,AMCX,253
+692,CTI Industries Corporation,CTIB,253
+691,Charles & Colvard Ltd,CTHR,253
+690,"Computer Task Group, Incorporated",CTG,253
+134,"Advanced Micro Devices, Inc.",AMD,253
+683,CaesarStone Sdot,CSTE,253
+2908,"Westell Technologies, Inc.",WSTL,253
+2678,"Tetra Tech, Inc.",TTEK,253
+687,"Community Trust Bancorp, Inc.",CTBI,253
+686,Cintas Corporation,CTAS,253
+136,Amedisys Inc,AMED,253
+685,Capital Southwest Corporation,CSWC,253
+2679,"TechTarget, Inc.",TTGT,253
+149,American Superconductor Corporation,AMSC,253
+150,"AMERISAFE, Inc.",AMSF,253
+668,"Crown Crafts, Inc.",CRWS,253
+2695,Texas Instruments Incorporated,TXN,253
+2901,"WesBanco, Inc.",WSBC,253
+2900,World Acceptance Corporation,WRLD,253
+163,"The Andersons, Inc.",ANDE,253
+164,"Angie's List, Inc.",ANGI,253
+165,"AngioDynamics, Inc.",ANGO,253
+2694,"2U, Inc.",TWOU,253
+647,"CRA International,Inc.",CRAI,253
+166,Anika Therapeutics Inc.,ANIK,253
+2685,Take,TTWO,253
+167,"ANI Pharmaceuticals, Inc.",ANIP,253
+2696,"Texas Roadhouse, Inc.",TXRH,253
+168,"ANSYS, Inc.",ANSS,253
+643,"Consumer Portfolio Services, Inc.",CPSS,253
+642,"Computer Programs and Systems, Inc.",CPSI,253
+641,"Catalyst Pharmaceutical Partners, Inc.",CPRX,253
+640,"Copart, Inc.",CPRT,253
+2692,"Twin Disc, Incorporated",TWIN,253
+159,American National Insurance Company,ANAT,253
+652,"Cree, Inc.",CREE,253
+653,China Recycling Energy Corporation,CREG,253
+666,CorVel Corp.,CRVL,253
+2904,WSFS Financial Corporation,WSFS,253
+153,"American Software, Inc.",AMSWA,253
+665,"Cirrus Logic, Inc.",CRUS,253
+664,Criteo S.A.,CRTO,253
+154,"Aemetis, Inc",AMTX,253
+155,American Woodmark Corporation,AMWD,253
+156,"Amazon.com, Inc.",AMZN,253
+660,"Crocs, Inc.",CROX,253
+659,Ceragon Networks Ltd.,CRNT,253
+658,America's Car,CRMT,253
+2689,Credit Suisse AG,TVIX,253
+656,"Curis, Inc.",CRIS,253
+655,Cresud S.A.C.I.F. y A.,CRESY,253
+2902,"Waterstone Financial, Inc.",WSBF,253
+2910,Wintrust Financial Corporation,WTFC,253
+137,Amgen Inc.,AMGN,253
+356,"Benefitfocus, Inc.",BNFT,253
+724,CyberOptics Corporation,CYBE,253
+2915,"Woodward, Inc.",WWD,253
+734,CytRx Corporation,CYTR,253
+119,Astro,ALOT,253
+720,"Casella Waste Systems, Inc.",CWST,253
+117,"Alnylam Pharmaceuticals, Inc.",ALNY,253
+116,Allot Communications Ltd.,ALLT,253
+112,Allegiant Travel Company,ALGT,253
+2670,"Tesla Motors, Inc.",TSLA,253
+727,"Cyclacel Pharmaceuticals, Inc.",CYCC,253
+114,Alkermes plc,ALKS,253
+2666,"Timberland Bancorp, Inc.",TSBK,253
+725,CyberArk Software Ltd.,CYBR,253
+707,"Cutera, Inc.",CUTR,253
+708,CVB Financial Corporation,CVBF,253
+2665,"Trevena, Inc.",TRVN,253
+709,"Cavco Industries, Inc.",CVCO,253
+710,Central Valley Community Bancorp,CVCY,253
+711,"Commercial Vehicle Group, Inc.",CVGI,253
+712,"Calavo Growers, Inc.",CVGW,253
+723,Cyanotech Corporation,CYAN,253
+713,"CommVault Systems, Inc.",CVLT,253
+714,"Codorus Valley Bancorp, Inc",CVLY,253
+2669,Tower Semiconductor Ltd.,TSEM,253
+2667,"TriState Capital Holdings, Inc.",TSC,253
+113,"Alimera Sciences, Inc.",ALIM,253
+716,CVD Equipment Corporation,CVV,253
+2668,Tractor Supply Company,TSCO,253
+721,China XD Plastics Company Limited,CXDC,253
+2920,Xenon Pharmaceuticals Inc.,XENE,253
+2917,"Wynn Resorts, Limited",WYNN,253
+2673,"TSR, Inc.",TSRI,253
+108,"Alico, Inc.",ALCO,253
+696,"Citi Trends, Inc.",CTRN,253
+737,Citizens & Northern Corp,CZNC,253
+127,"Ambarella, Inc.",AMBA,253
+126,"Applied Materials, Inc.",AMAT,253
+2914,"Willamette Valley Vineyards, Inc.",WVVI,253
+733,"Cytokinetics, Incorporated",CYTK,253
+699,Cognizant Technology Solutions Corporation,CTSH,253
+700,Cytosorbents Corporation,CTSO,253
+2921,"Intersect ENT, Inc.",XENT,253
+732,CYREN Ltd.,CYRN,253
+702,"Citrix Systems, Inc.",CTXS,253
+122,Altera Corporation,ALTR,253
+719,Consolidated Water Co. Ltd.,CWCO,253
+111,"Align Technology, Inc.",ALGN,253
+2664,"TrueCar, Inc.",TRUE,253
+110,"Aldeyra Therapeutics, Inc.",ALDX,253
+704,"The Herzfeld Caribbean Basin Fund, Inc.",CUBA,253
+335,Bank of South Carolina Corp.,BKSC,252
+1434,iShares S&P/Citigroup 1,ISHG,252
+2317,"Salisbury Bancorp, Inc.",SAL,252
+1781,"Mannatech, Incorporated",MTEX,252
+2063,Plumas Bancorp,PLBC,252
+552,Compass EMP Developed 500 Enhanced Volatility Weighted Index ETF,CIZ,252
+1731,"Malvern Bancorp, Inc.",MLVF,252
+1085,First Trust High Income ETF,FTHI,252
+2576,"Taylor Devices, Inc.",TAYD,252
+2462,"Sonic Foundry, Inc.",SOFO,252
+1209,Gulf Coast Ultra Deep Royalty Trust,GULTU,252
+2150,Partner Communications Company Ltd.,PTNR,252
+914,Elmira Savings Bank NY (The),ESBK,252
+553,Citizens Holding Company,CIZN,252
+2878,G. Willi,WILC,252
+505,Central Federal Corporation,CFBK,252
+2587,Technical Communications Corporation,TCCO,251
+970,"First Capital, Inc.",FCAP,251
+2874,"Wheeler Real Estate Investment Trust, Inc.",WHLRP,251
+771,"Discovery Communications, Inc.",DISCB,251
+2426,SLM Corporation,SLMBP,251
+367,"Bank of the James Financial Group, Inc.",BOTJ,251
+1468,Jewett,JCTCF,251
+718,Community West Bancshares,CWBC,251
+880,iShares S&P Emerging Markets Infrastructure Index Fund,EMIF,251
+1086,First Trust Low Beta Income ETF,FTLB,250
+2085,PrimeEnergy Corporation,PNRG,250
+634,Canterbury Park Holding Corporation,CPHC,250
+1132,"Guaranty Federal Bancshares, Inc.",GFED,250
+53,"Adamas Pharmaceuticals, Inc.",ADMS,250
+2137,"Power Solutions International, Inc.",PSIX,249
+2706,"United Bancshares, Inc.",UBOH,249
+2729,Unico American Corporation,UNAM,249
+819,WisdomTree Japan Hedged SmallCap Equity Fund,DXJS,249
+838,"Echo Global Logistics, Inc.",ECHO,249
+372,"Popular, Inc.",BPOPM,248
+1501,Kentucky First Federal Bancorp,KFFB,248
+425,magicJack VocalTec Ltd,CALL,248
+2926,Acceleron Pharma Inc.,XLRN,248
+1275,"HMN Financial, Inc.",HMNF,248
+2207,"Raven Industries, Inc.",RAVN,248
+1605,"Loral Space and Communications, Inc.",LORL,247
+312,Bel Fuse Inc.,BELFA,247
+1026,"Flexion Therapeutics, Inc.",FLXN,247
+41,"Acura Pharmaceuticals, Inc.",ACUR,246
+2654,Tornier N.V.,TRNX,246
+994,First Trust Eurozone AlphaDEX ETF,FEUZ,246
+1945,Old Point Financial Corporation,OPOF,246
+2688,First Trust Total US Market AlphaDEX ETF,TUSA,246
+1339,"InterCloud Systems, Inc",ICLD,245
+1402,The Intergroup Corporation,INTG,245
+2648,Trillium Therapeutics Inc.,TRIL,245
+1291,Hovnanian Enterprises Inc,HOVNP,244
+2080,Patriot National Bancorp Inc.,PNBK,244
+1497,"Kelly Services, Inc.",KELYB,243
+2282,"Royale Energy, Inc.",ROYL,243
+1825,"Northeast Community Bancorp, Inc.",NECB,243
+916,Escalera Resources Co.,ESCR,242
+2931,The ExOne Company,XONE,242
+592,"Century Bancorp, Inc.",CNBKA,242
+836,"Meridian Bancorp, Inc.",EBSB,242
+1684,Methes Energies International Ltd,MEIL,241
+875,Emclaire Financial Corp,EMCF,241
+190,"ARC Group Worldwide, Inc.",ARCW,237
+2164,QAD Inc.,QADA,237
+1917,Oconee Federal Financial Corp.,OFED,237
+2204,Rand Capital Corporation,RAND,236
+1832,"Net Element, Inc.",NETE,236
+485,"Clean Diesel Technologies, Inc.",CDTI,235
+1711,"Magyar Bancorp, Inc.",MGYR,233
+2549,Severn Bancorp Inc,SVBI,233
+373,"Popular, Inc.",BPOPN,232
+1778,"MISONIX, Inc.",MSON,232
+1618,"Lake Shore Bancorp, Inc.",LSBK,232
+1997,"Pathfinder Bancorp, Inc.",PBHC,232
+1196,"GSI Group, Inc.",GSIG,230
+2363,"Sound Financial Bancorp, Inc.",SFBC,229
+818,WisdomTree Germany Hedged Equity Fund,DXGE,227
+1763,Merge Healthcare Incorporated.,MRGE,226
+169,"Anthera Pharmaceuticals, Inc.",ANTH,225
+812,Diversicare Healthcare Services Inc.,DVCR,225
+1624,"Liberty TripAdvisor Holdings, Inc.",LTRPB,224
+2075,Pacific Mercantile Bancorp,PMBC,223
+2895,VCA Inc.,WOOF,222
+679,"Cornerstone OnDemand, Inc.",CSOD,222
+2422,"Select Bancorp, Inc.",SLCT,222
+1220,"Harvard Apparatus Regenerative Technology, Inc.",HART,219
+2353,SolarCity Corporation,SCTY,218
+1143,Giga,GIGA,217
+1430,"IF Bancorp, Inc.",IROQ,217
+383,Bio,BRLI,216
+2478,"Sophiris Bio, Inc.",SPHS,216
+2632,TetraLogic Pharmaceuticals Corporation,TLOG,215
+1119,"GlobeImmune, Inc.",GBIM,214
+2528,Stamps.com Inc.,STMP,214
+310,"bebe stores, inc.",BEBE,212
+1226,Huntington Bancshares Incorporated,HBANP,210
+278,BancFirst Corporation,BANFP,208
+317,"BG Medicine, Inc.",BGMD,206
+2853,Wayne Savings Bancshares Inc.,WAYN,206
+2165,QAD Inc.,QADB,205
+1494,Kansas City Life Insurance Company,KCLI,204
+1153,Glen Burnie Bancorp,GLBZ,202
+1161,Glori Energy Inc,GLRI,201
+1260,"Home Federal Bancorp, Inc. of Louisiana",HFBL,200
+623,Majesco Entertainment Company,COOL,198
+2167,Qualstar Corporation,QBAK,197
+884,Emmis Communications Corporation,EMMS,195
+922,Escalon Medical Corp.,ESMC,193
+2762,Village Bank and Trust Financial Corp.,VBFC,192
+1451,"Ivanhoe Energy, Inc.",IVAN,192
+1361,Internet Gold Golden Lines Ltd.,IGLD,189
+1408,"Inventergy Global, Inc.",INVT,188
+896,"Envivio, Inc.",ENVI,187
+2913,WVS Financial Corp.,WVFC,186
+2638,TOR Minerals International Inc,TORM,186
+2168,"QC Holdings, Inc.",QCCO,184
+2476,"Speed Commerce, Inc.",SPDC,184
+2306,"Ignyta, Inc.",RXDX,183
+414,"Cache, Inc.",CACH,183
+2413,"6D Global Technologies, Inc.",SIXD,183
+881,Elbit Imaging Ltd.,EMITF,183
+1504,Kingold Jewelry Inc.,KGJI,183
+131,Andatee China Marine Fuel Services Corporation,AMCF,182
+223,AmeriServ Financial Inc.,ASRVP,181
+2221,Reading International Inc,RDIB,181
+2526,"Stanley Furniture Company, Inc.",STLY,180
+1548,Liberty Global plc,LBTYB,180
+1858,"National Security Group, Inc.",NSEC,178
+1222,"Blackhawk Network Holdings, Inc.",HAWK,177
+2387,Sears Holdings Corporation,SHLD,177
+2041,Peoples Financial Corporation,PFBX,175
+424,China Auto Logistics Inc.,CALI,171
+760,"Donegal Group, Inc.",DGICB,171
+1438,"Isle of Capri Casinos, Inc.",ISLE,171
+388,"Biostar Pharmaceuticals, Inc.",BSPM,168
+1213,"Gyrodyne Company of America, Inc.",GYRO,167
+830,Erickson Incorporated,EAC,161
+56,BLDRS Asia 50 ADR Index Fund,ADRA,161
+2618,Truett,THST,157
+2361,Seneca Foods Corp.,SENEB,153
+957,"FalconStor Software, Inc.",FALC,153
+157,"Anacor Pharmaceuticals, Inc.",ANAC,152
+756,Barclays PLC,DFVL,152
+1907,Optibase Ltd.,OBAS,149
+757,Barclays PLC,DFVS,148
+828,Dynasil Corporation of America,DYSL,147
+2233,"Reliv' International, Inc.",RELV,145
+233,"athenahealth, Inc.",ATHN,144
+1648,"J. W. Mays, Inc.",MAYS,142
+1184,Gulfport Energy Corporation,GPOR,137
+814,Arrow DWA Tactical ETF,DWAT,136
+728,"Cyclacel Pharmaceuticals, Inc.",CYCCP,136
+1622,"Learning Tree International, Inc.",LTRE,132
+1808,"National American University Holdings, Inc.",NAUH,131
+2783,Video Display Corporation,VIDE,123
+1523,"Key Technology, Inc.",KTEC,122
+2691,Towerstream Corporation,TWER,121
+2176,"QKL Stores, Inc.",QKLS,120
+2252,RIT Technologies Ltd.,RITT,119
+229,ATA Inc.,ATAI,115
+1179,Gladstone Commercial Corporation,GOODO,113
+509,California First National Bancorp,CFNB,108
+1148,"G&K Services, Inc.",GK,105
+479,Concurrent Computer Corporation,CCUR,100
+1729,"ModusLink Global Solutions, Inc",MLNK,88
+1661,"Madison County Financial, Inc.",MCBK,88
+801,Credit Suisse AG,DSLV,75
+2786,Credit Suisse AG,VIIX,75
+1982,Oxford Lane Capital Corp.,OXLCO,71
+2442,"Stein Mart, Inc.",SMRT,68
+2821,"Vestin Realty Mortgage I, Inc.",VRTA,57
+2661,Terrapin 3 Acquisition Corporation,TRTL,56
+1243,"Hawaiian Telcom Holdco, Inc.",HCOM,54
+2399,"SI Financial Group, Inc.",SIFI,52
+1067,"Papa Murphy's Holdings, Inc.",FRSH,49
+473,ChinaCache International Holdings Ltd.,CCIH,46
+2617,"Theravance, Inc.",THRX,38
+613,"Corinthian Colleges, Inc.",COCO,28
+197,"ARI Network Services, Inc.",ARIS,27
+2822,"Vestin Realty Mortgage II, Inc.",VRTB,27
+1390,Informatica Corporation,INFA,24
+2235,Rentrak Corporation,RENT,23
+2623,"Harris & Harris Group, Inc.",TINY,22
+29,"Achillion Pharmaceuticals, Inc.",ACHN,16
+2534,Sutron Corporation,STRN,15
+308,"BioTelemetry, Inc.",BEAT,13
+753,"Dermira, Inc.",DERM,12
+260,"A V Homes, Inc.",AVHI,9
+2362,"Sevcon, Inc.",SEV,9
+2570,Barclays PLC,TAPR,8
+1747,"MobileIron, Inc.",MOBL,2
+2959,Credit Suisse AG,ZIV,1
+2548,"Sinovac Biotech, Ltd.",SVA,1
+762,Credit Suisse AG,DGLD,1
+2671,"Tessera Technologies, Inc.",TSRA,0
+2498,"Square 1 Financial, Inc.",SQBK,0
+2497,"Sequential Brands Group, Inc.",SQBG,0
+2916,"Web.com Group, Inc.",WWWW,0
+2154,"Pernix Therapeutics Holdings, Inc.",PTX,0
+2605,1347 Capital Corp.,TFSCU,0
+2100,Prana Biotechnology Ltd,PRAN,0
+2672,"Trade Street Residential, Inc.",TSRE,0
+2922,"XG Technology, Inc",XGTI,0
+2518,Student Transportation Inc,STB,0
+2585,"Texas Capital Bancshares, Inc.",TCBIW,0
+2155,Pulaski Financial Corp.,PULB,0
+2515,Silver Standard Resources Inc.,SSRI,0
+2514,Symmetry Surgical Inc.,SSRG,0
+2512,Sunshine Heart Inc,SSH,0
+2511,Stewardship Financial Corp,SSFN,0
+2663,Terrapin 3 Acquisition Corporation,TRTLW,0
+2606,1347 Capital Corp.,TFSCW,0
+2508,Sears Canada Inc.,SRSC,0
+2160,Providence and Worcester Railroad Company,PWX,0
+2662,Terrapin 3 Acquisition Corporation,TRTLU,0
+2156,"PrivateBancorp, Inc.",PVTB,0
+2159,"Perfect World Co., Ltd.",PWRD,0
+2918,"Xenith Bankshares, Inc.",XBKS,0
+2500,"Sequenom, Inc.",SQNM,0
+2101,"Perceptron, Inc.",PRCP,0
+2499,"SciQuest, Inc.",SQI,0
+2919,Xcerra Corporation,XCRA,0
+2157,"PrivateBancorp, Inc.",PVTBP,0
+2961,"ZELTIQ Aesthetics, Inc.",ZLTQ,0
+2115,The Providence Service Corporation,PRSC,0
+2962,Zion Oil & Gas Inc,ZN,0
+2178,Qlik Technologies Inc.,QLIK,0
+2965,"zulily, inc.",ZU,0
+2479,"Siliconware Precision Industries Company, Ltd.",SPIL,0
+2906,West Corporation,WSTC,0
+2905,WSFS Financial Corporation,WSFSL,0
+2477,Spherix Incorporated,SPEX,0
+2683,"Tetraphase Pharmaceuticals, Inc.",TTPH,0
+2179,QLT Inc.,QLTI,0
+2599,"TerraForm Power, Inc.",TERP,0
+2593,TearLab Corporation,TEAR,0
+2684,"Tile Shop Hldgs, Inc.",TTS,0
+2096,Peregrine Pharmaceuticals Inc.,PPHMP,0
+2180,"Quality Distribution, Inc.",QLTY,0
+2474,"Spartan Motors, Inc.",SPAR,0
+2903,WSI Industries Inc.,WSCI,0
+2594,Tech Data Corporation,TECD,0
+2686,"TubeMogul, Inc.",TUBE,0
+2687,Tuesday Morning Corp.,TUES,0
+2473,Span,SPAN,0
+2095,Peregrine Pharmaceuticals Inc.,PPHM,0
+2480,"Spark Energy, Inc.",SPKE,0
+2177,QLogic Corporation,QLGC,0
+2674,"TESARO, Inc.",TSRO,0
+2482,"Staples, Inc.",SPLS,0
+2604,1347 Capital Corp.,TFSCR,0
+2099,"PRA Health Sciences, Inc.",PRAH,0
+2912,"The Wet Seal, Inc.",WTSL,0
+2494,"SkyPeople Fruit Juice, Inc.",SPU,0
+2675,"TheStreet, Inc.",TST,0
+2491,"support.com, Inc.",SPRT,0
+2911,Wintrust Financial Corporation,WTFCW,0
+2520,State Bank Financial Corporation.,STBZ,0
+2489,"Supertel Hospitality, Inc.",SPPRP,0
+2603,1347 Capital Corp.,TFSC,0
+2488,"Supertel Hospitality, Inc.",SPPRO,0
+2602,"The Fresh Market, Inc.",TFM,0
+2174,First Trust RBA Quality Income ETF,QINC,0
+2487,"Supertel Hospitality, Inc.",SPPR,0
+2964,"ZS Pharma, Inc.",ZSPH,0
+2680,"Transition Therapeutics, Inc.",TTHI,0
+2590,"THL Credit, Inc.",TCRD,0
+2600,Tesco Corporation,TESO,0
+2483,The Spectranetics Corporation,SPNC,0
+2676,"TeleCommunication Systems, Inc.",TSYS,0
+2104,Paragon Shipping Inc.,PRGN,0
+2923,"XG Technology, Inc",XGTIW,0
+2939,Yahoo! Inc.,YHOO,0
+2943,AdvisorShares YieldPro ETF,YPRO,0
+2627,TiVo Inc.,TIVO,0
+2628,"Tokai Pharmaceuticals, Inc.",TKAI,0
+2551,Smith & Wesson Holding Corporation,SWHC,0
+2629,Tekmira Pharmaceuticals Corp,TKMR,0
+2630,"Tandy Leather Factory, Inc.",TLF,0
+2941,"You On Demand Holdings, Inc.",YOD,0
+2631,"Talmer Bancorp, Inc.",TLMR,0
+2571,"TASER International, Inc.",TASR,0
+2554,"Swisher Hygiene, Inc.",SWSH,0
+2938,"Yodlee, Inc.",YDLE,0
+2633,"Telenav, Inc.",TNAV,0
+2937,First Trust International Multi,YDIV,0
+2110,Peerless Systems Corporation,PRLS,0
+2615,Thoratec Corporation,THOR,0
+2635,"Tangoe, Inc.",TNGO,0
+2936,Ixia,XXIA,0
+2614,"Threshold Pharmaceuticals, Inc.",THLD,0
+2619,"THT Heat Transfer Technology, Inc.",THTI,0
+2944,"YRC Worldwide, Inc.",YRCW,0
+2546,"Susquehanna Bancshares, Inc.",SUSQ,0
+2121,"Premier Exhibitions, Inc.",PRXI,0
+2116,CafePress Inc.,PRSS,0
+2948,ZaZa Energy Corporation,ZAZA,0
+2947,ZAGG Inc,ZAGG,0
+2564,Sysorex Global Holding Corp.,SYRX,0
+2119,"Proteon Therapeutics, Inc.",PRTO,0
+2565,"Synutra International, Inc.",SYUT,0
+2562,"Syntel, Inc.",SYNT,0
+2625,"Top Image Systems, Ltd.",TISA,0
+2566,Sizmek Inc.,SZMK,0
+2567,"Solazyme, Inc.",SZYM,0
+2122,PAREXEL International Corporation,PRXL,0
+2951,"Zafgen, Inc.",ZFGN,0
+2560,"Synacor, Inc.",SYNC,0
+2558,"Synthesis Energy Systems, Inc.",SYMX,0
+2557,Symantec Corporation,SYMC,0
+2123,PowerShares Global Gold & Precious Metals Portfolio,PSAU,0
+2124,"PSB Holdings, Inc.",PSBH,0
+2556,"Sykes Enterprises, Incorporated",SYKE,0
+2547,Sutor Technology Group Limited,SUTR,0
+2107,"PRGX Global, Inc.",PRGX,0
+2584,"Texas Capital Bancshares, Inc.",TCBIP,0
+2620,TICC Capital Corp.,TICC,0
+2530,Barclays PLC,STPP,0
+2144,"PlasmaTech Biopharmaceuticals, Inc.",PTBIW,0
+2529,Steiner Leisure Limited,STNR,0
+2956,Zions Bancorporation,ZIONW,0
+2655,"TrovaGene, Inc.",TROV,0
+2527,"Stemline Therapeutics, Inc.",STML,0
+2105,Paragon Shipping Inc.,PRGNL,0
+2656,"TrovaGene, Inc.",TROVU,0
+2924,Credit Suisse AG,XIV,0
+2143,"PlasmaTech Biopharmaceuticals, Inc.",PTBI,0
+2148,Pain Therapeutics,PTIE,0
+2149,"Portola Pharmaceuticals, Inc.",PTLA,0
+2657,"TrovaGene, Inc.",TROVW,0
+2151,Internet Patents Corporation,PTNT,0
+2152,"The Pantry, Inc.",PTRY,0
+2957,Zions Bancorporation,ZIONZ,0
+2583,"Texas Capital Bancshares, Inc.",TCBIL,0
+2521,"Stock Building Supply Holdings, Inc.",STCK,0
+2609,"TGC Industries, Inc.",TGE,0
+2578,"Transgenomic, Inc.",TBIO,0
+2642,"Dealertrack Technologies, Inc.",TRAK,0
+2574,"Liberty Tax, Inc.",TAX,0
+2134,pSivida Corp.,PSDV,0
+2933,Xplore Technologies Corp,XPLR,0
+2932,Xoom Corporation,XOOM,0
+2643,Two River Bancorp,TRCB,0
+2136,Pericom Semiconductor Corporation,PSEM,0
+2690,Credit Suisse AG,TVIZ,0
+2646,"Targacept, Inc.",TRGT,0
+2541,Suffolk Bancorp,SUBK,0
+2650,"TriVascular Technologies, Inc.",TRIV,0
+2142,"Pacific Sunwear of California, Inc.",PSUN,0
+2953,"Zhone Technologies, Inc.",ZHNE,0
+2929,"XenoPort, Inc.",XNPT,0
+2538,Starz,STRZB,0
+2537,Starz,STRZA,0
+2575,Medallion Financial Corp.,TAXI,0
+2139,Park Sterling Corporation,PSTB,0
+2954,Horsehead Holding Corp.,ZINC,0
+2141,PostRock Energy Corporation,PSTR,0
+2644,"Torchlight Energy Resources, Inc.",TRCH,0
+2297,"Retrophin, Inc.",RTRX,0
+2470,"SORL Auto Parts, Inc.",SORL,0
+2846,Valley Financial Corporation,VYFC,0
+2596,Tecumseh Products Company,TECU,0
+2352,Select Comfort Corporation,SCSS,0
+2781,Vical Incorporated,VICL,0
+2253,RIT Technologies Ltd.,RITTW,0
+2254,River Valley Bancorp.,RIVR,0
+2255,"Republic Airways Holdings, Inc.",RJET,0
+2256,"RLJ Entertainment, Inc.",RLJE,0
+2257,"ReachLocal, Inc.",RLOC,0
+2258,"Rand Logistics, Inc.",RLOG,0
+2259,"Relypsa, Inc.",RLYP,0
+2349,Superconductor Technologies Inc.,SCON,0
+2348,"SinoCoking Coal and Coke Chemical Industries, Inc",SCOK,0
+2262,RMG Networks Holding Corporation,RMGN,0
+2844,VWR Corporation,VWR,0
+2842,"VIVUS, Inc.",VVUS,0
+2265,"RigNet, Inc.",RNET,0
+2347,"Sucampo Pharmaceuticals, Inc.",SCMP,0
+2346,"SciClone Pharmaceuticals, Inc.",SCLN,0
+2787,Credit Suisse AG,VIIZ,0
+2343,"Surgical Care Affiliates, Inc.",SCAI,0
+2788,Vimicro International Corporation,VIMC,0
+2270,"Radio One, Inc.",ROIA,0
+2271,"Radio One, Inc.",ROIAK,0
+2780,"Viasystems Group, Inc.",VIAS,0
+2779,Viacom Inc.,VIAB,0
+2693,Trans World Entertainment Corp.,TWMC,0
+2774,Viggle Inc.,VGGL,0
+2383,"Synergy Pharmaceuticals, Inc.",SGYPW,0
+2239,Rex Energy Corporation,REXX,0
+2382,"Synergy Pharmaceuticals, Inc.",SGYPU,0
+2381,"Synergy Pharmaceuticals, Inc.",SGYP,0
+2378,"Sagent Pharmaceuticals, Inc.",SGNT,0
+2377,"Signal Genetics, Inc.",SGNL,0
+2760,Validea Market Legends ETF,VALX,0
+2858,WebMD Health Corp,WBMD,0
+2761,"Vascular Solutions, Inc.",VASC,0
+2242,"Regado BioSciences, Inc.",RGDO,0
+2857,"Wolverine Bancorp, Inc.",WBKC,0
+2856,"Westbury Bancorp, Inc.",WBB,0
+2243,"Response Genetics, Inc.",RGDX,0
+2373,Silicon Graphics International Corp,SGI,0
+2370,Stonegate Bank,SGBK,0
+2369,"SFX Entertainment, Inc.",SFXE,0
+2247,"Real Goods Solar, Inc.",RGSE,0
+2852,Wave Systems Corp.,WAVX,0
+2249,RiceBran Technologies,RIBTW,0
+2365,"Shutterfly, Inc.",SFLY,0
+2849,"Washington Federal, Inc.",WAFDW,0
+2359,SunEdison Semiconductor Limited,SEMI,0
+2772,"VASCO Data Security International, Inc.",VDSI,0
+2789,VimpelCom Ltd.,VIP,0
+2273,ROI Acquisition Corp. II,ROIQ,0
+2340,"Spanish Broadcasting System, Inc.",SBSA,0
+2274,ROI Acquisition Corp. II,ROIQU,0
+2324,Sapient Corporation,SAPE,0
+2323,S&W Seed Company,SANWZ,0
+2832,"Vitae Pharmaceuticals, Inc.",VTAE,0
+2812,Vapor Corp.,VPCO,0
+2318,"RetailMeNot, Inc.",SALE,0
+2316,"Sajan, Inc.",SAJA,0
+2814,"Vermillion, Inc.",VRML,0
+2815,"Vringo, Inc.",VRNG,0
+2291,RRSat Global Communications Network Ltd.,RRST,0
+2292,Rofin,RSTI,0
+2816,"Vringo, Inc.",VRNGW,0
+2311,"SAExploration Holdings, Inc.",SAEX,0
+2293,RadiSys Corporation,RSYS,0
+2309,"inContact, Inc.",SAAS,0
+2307,RXi Pharmaceuticals Corporation,RXII,0
+2829,"VirtualScopics, Inc.",VSCP,0
+2828,Vision,VSCI,0
+2302,"Revolution Lighting Technologies, Inc.",RVLT,0
+2294,"Ruthigen, Inc.",RTGN,0
+2301,"Riverbed Technology, Inc.",RVBD,0
+2295,"RTI Surgical, Inc.",RTIX,0
+2824,Virtusa Corporation,VRTU,0
+2826,"Versartis, Inc.",VSAR,0
+2807,Volcano Corporation,VOLC,0
+2329,Sussex Bancorp,SBBX,0
+2805,Vanguard Natural Resources LLC,VNRCP,0
+2795,Voltari Corporation,VLTC,0
+2275,ROI Acquisition Corp. II,ROIQW,0
+2276,"Roka Bioscience, Inc.",ROKA,0
+2339,"Sabra Healthcare REIT, Inc.",SBRAP,0
+2278,Rosetta Resources Inc.,ROSE,0
+2279,Rosetta Genomics Ltd.,ROSG,0
+2791,"VisionChina Media, Inc.",VISN,0
+2793,Knightsbridge Shipping Limited,VLCCF,0
+2337,Signature Bank,SBNYW,0
+2281,Rovi Corporation,ROVI,0
+2335,Star Bulk Carriers Corp.,SBLKL,0
+2796,Valley National Bancorp,VLYWW,0
+2804,Vanguard Natural Resources LLC,VNRBP,0
+2837,Vitesse Semiconductor Corporation,VTSS,0
+2283,"RealPage, Inc.",RP,0
+2331,"Sunshine Bancorp, Inc.",SBCP,0
+2285,Repros Therapeutics Inc.,RPRXW,0
+2802,Vanguard Natural Resources LLC,VNR,0
+2286,Repros Therapeutics Inc.,RPRXZ,0
+2287,Raptor Pharmaceutical Corp.,RPTP,0
+2835,"Vital Therapies, Inc.",VTL,0
+2288,RPX Corporation,RPXC,0
+2803,Vanguard Natural Resources LLC,VNRAP,0
+2238,"Resource America, Inc.",REXI,0
+2758,Virgin America Inc.,VA,0
+2861,"Wellesley Bancorp, Inc.",WEBK,0
+2432,Sino Mercury Acquisition Corp.,SMAC,0
+2890,WL Ross Holding Corp.,WLRHW,0
+2889,WL Ross Holding Corp.,WLRHU,0
+2197,Qunar Cayman Islands Limited,QUNR,0
+2705,"Ubiquiti Networks, Inc.",UBNT,0
+2888,WL Ross Holding Corp.,WLRH,0
+2450,"State National Companies, Inc.",SNC,0
+2199,Liberty Interactive Corporation,QVCA,0
+2200,Liberty Interactive Corporation,QVCB,0
+2449,"Sun Bancorp, Inc.",SNBC,0
+2448,"Inventure Foods, Inc.",SNAK,0
+2885,Westmoreland Coal Company,WLBPZ,0
+2884,Westmoreland Coal Company,WLB,0
+2447,SMTC Corporation,SMTX,0
+2446,"SMTP, Inc.",SMTP,0
+2444,SMART Technologies Inc.,SMT,0
+2707,Union Bankshares Corporation,UBSH,0
+2709,United Community Bancorp,UCBA,0
+2711,United Community Financial Corp.,UCFC,0
+2713,United Development Funding IV,UDF,0
+2434,Sino Mercury Acquisition Corp.,SMACU,0
+2720,Credit Suisse AG,UGLD,0
+2880,"Windstream Holdings, Inc.",WIN,0
+2879,Wi,WILN,0
+2891,"West Marine, Inc.",WMAR,0
+2452,SanDisk Corporation,SNDK,0
+2704,"United Financial Bancorp, Inc.",UBNK,0
+2897,WPP plc,WPPGY,0
+2899,"Warren Resources, Inc.",WRES,0
+2469,"Sonus Networks, Inc.",SONS,0
+2468,Sonic Corp.,SONC,0
+2467,"Southern National Bancorp of Virginia, Inc.",SONA,0
+2185,Global X NASDAQ China Technology ETF,QQQC,0
+2465,Sotherly Hotels LP,SOHOM,0
+2464,Sotherly Hotels LP,SOHOL,0
+2697,Monotype Imaging Holdings Inc.,TYPE,0
+2699,"Universal Truckload Services, Inc.",UACL,0
+2461,SodaStream International Ltd.,SODA,0
+2459,Southcoast Financial Corporation,SOCB,0
+2892,"Wright Medical Group, Inc.",WMGI,0
+2458,Synta Pharmaceuticals Corp.,SNTA,0
+2896,WPCS International Incorporated,WPCS,0
+2457,"Sunesis Pharmaceuticals, Inc.",SNSS,0
+2455,"Senomyx, Inc.",SNMX,0
+2190,"Quality Systems, Inc.",QSII,0
+2893,"Wright Medical Group, Inc.",WMGIZ,0
+2454,Sun Hydraulics Corporation,SNHY,0
+2703,"UBIC, Inc.",UBIC,0
+2193,Quotient Limited,QTNTW,0
+2296,"Rentech, Inc.",RTK,0
+2433,Sino Mercury Acquisition Corp.,SMACR,0
+2877,"Boingo Wireless, Inc.",WIFI,0
+2388,Sears Holdings Corporation,SHLDW,0
+2876,"Wilshire Bancorp, Inc.",WIBC,0
+2868,"Whole Foods Market, Inc.",WFM,0
+2407,Sina Corporation,SINA,0
+2405,"Silicon Image, Inc.",SIMG,0
+2746,"U S Concrete, Inc.",USCR,0
+2403,"Sigma Designs, Inc.",SIGM,0
+2226,"Resources Connection, Inc.",RECN,0
+2749,Credit Suisse AG,USLV,0
+2227,Rediff.com India Limited,REDF,0
+2867,"Westfield Financial, Inc.",WFD,0
+2750,"USMD Holdings, Inc.",USMD,0
+2751,United Stationers Inc.,USTR,0
+2866,WashingtonFirst Bankshares Inc,WFBI,0
+2396,"State Investors Bancorp, Inc.",SIBC,0
+2395,Sigma,SIAL,0
+2752,"Ultratech, Inc.",UTEK,0
+2231,"Reis, Inc",REIS,0
+2754,UTi Worldwide Inc.,UTIW,0
+2394,Shire plc,SHPG,0
+2393,"Sears Hometown and Outlet Stores, Inc.",SHOS,0
+2392,"ShoreTel, Inc.",SHOR,0
+2234,"Remy International, Inc.",REMY,0
+2390,"Shiloh Industries, Inc.",SHLO,0
+2389,"A. Schulman, Inc.",SHLM,0
+2410,"Sirona Dental Systems, Inc.",SIRO,0
+2869,WaferGen Bio,WGBS,0
+2745,"United Security Bancshares, Inc.",USBI,0
+2417,"Skullcandy, Inc.",SKUL,0
+2431,"Salix Pharmaceuticals, Ltd.",SLXP,0
+2875,"Wheeler Real Estate Investment Trust, Inc.",WHLRW,0
+2429,"Selectica, Inc.",SLTC,0
+2725,"The Ultimate Software Group, Inc.",ULTI,0
+2425,SLM Corporation,SLMAP,0
+2732,Unilife Corporation,UNIS,0
+2418,"Sky Solar Holdings, Ltd.",SKYS,0
+2210,"Royal Bancshares of Pennsylvania, Inc.",RBPAA,0
+2733,"United Online, Inc.",UNTD,0
+2871,"WhiteHorse Finance, Inc.",WHFBL,0
+2735,Uni,UNXL,0
+2744,"USA Technologies, Inc.",USATP,0
+2736,"Uroplasty, Inc.",UPI,0
+2737,"Unwired Planet, Inc.",UPIP,0
+2415,"Peak Resorts, Inc.",SKIS,0
+2215,"Rock Creek Pharmaceuticals, Inc.",RCPI,0
+2414,Skystar Bio,SKBI,0
+2216,"Receptos, Inc.",RCPT,0
+2218,"Elizabeth Arden, Inc.",RDEN,0
+2740,"Uranium Resources, Inc.",URRE,0
+2412,SVB Financial Group,SIVBO,0
+2743,"USA Technologies, Inc.",USAT,0
+2194,"Quantum Fuel Systems Technologies Worldwide, Inc.",QTWW,0
+0,iShares MSCI All Country Asia Information Technology Index Fund,AAIT,0
+2092,"Pozen, Inc.",POZN,0
+682,CSR plc,CSRE,0
+715,"Covenant Transportation Group, Inc.",CVTI,0
+706,CU Bancorp (CA),CUNB,0
+705,"CUI Global, Inc.",CUI,0
+703,First Trust ISE Global Copper Index Fund,CU,0
+701,"Connecticut Water Service, Inc.",CTWS,0
+698,Catamaran Corporation,CTRX,0
+697,"Ctrip.com International, Ltd.",CTRP,0
+695,Control4 Corporation,CTRL,0
+689,"Constant Contact, Inc.",CTCT,0
+688,"CTC Media, Inc.",CTCM,0
+684,"China Sunergy Co., Ltd.",CSUN,0
+674,"CenterState Banks, Inc.",CSFL,0
+648,Cray Inc,CRAY,0
+671,"Cascade Microtech, Inc.",CSCD,0
+670,Clifton Bancorp Inc.,CSBK,0
+669,"Carrizo Oil & Gas, Inc.",CRZO,0
+667,"Crown Media Holdings, Inc.",CRWN,0
+663,"Cartesian, Inc.",CRTN,0
+662,"Corporate Resource Services, Inc.",CRRS,0
+661,Courier Corporation,CRRC,0
+657,Cardiome Pharma Corporation,CRME,0
+654,Cresud S.A.C.I.F. y A.,CRESW,0
+651,WisdomTree Strategic Corporate Bond Fund,CRDT,0
+650,"Crossroads Systems, Inc.",CRDS,0
+717,"Coastway Bancorp, Inc.",CWAY,0
+722,Cypress Semiconductor Corporation,CY,0
+726,"Cyberonics, Inc.",CYBX,0
+729,"Community Health Systems, Inc.",CYHHZ,0
+789,Dataram Corporation,DRAM,0
+788,Digirad Corporation,DRAD,0
+787,"Dipexium Pharmaceuticals, Inc.",DPRX,0
+785,"Dover Saddlery, Inc.",DOVR,0
+783,"Dunkin' Brands Group, Inc.",DNKN,0
+782,DNB Financial Corp,DNBF,0
+780,"Diamond Foods, Inc.",DMND,0
+776,Barclays PLC,DLBS,0
+775,Barclays PLC,DLBL,0
+768,Dehaier Medical Systems Limited,DHRM,0
+758,"Delta Natural Gas Company, Inc.",DGAS,0
+755,"Del Frisco's Restaurant Group, Inc.",DFRG,0
+754,Destination Maternity Corporation,DEST,0
+752,"Depomed, Inc.",DEPO,0
+748,Diana Containerships Inc.,DCIX,0
+745,"Famous Dave's of America, Inc.",DAVE,0
+744,Jiayuan.com International Ltd.,DATE,0
+743,"DARA Biosciences, Inc.",DARA,0
+740,Daegis Inc,DAEG,0
+736,Citizens First Corporation,CZFC,0
+735,Cytori Therapeutics Inc,CYTX,0
+731,Changyou.com Limited,CYOU,0
+730,"Cynosure, Inc.",CYNO,0
+649,"Cardica, Inc.",CRDC,0
+646,Celator Pharmaceuticals Inc.,CPXX,0
+2089,Pope Resources,POPE,0
+559,Capitol Acquisition Corp. II,CLACW,0
+584,CM Finance Inc,CMFN,0
+581,Comcast Corporation,CMCSK,0
+576,"Town Sports International Holdings, Inc.",CLUB,0
+575,Celsus Therapeutics Plc,CLTX,0
+573,"CollabRx, Inc.",CLRX,0
+571,"Cellectar Biosciences, Inc.",CLRBW,0
+569,"Cleantech Solutions International, Inc.",CLNT,0
+566,"Calamos Asset Management, Inc.",CLMS,0
+562,Celladon Corporation,CLDN,0
+561,"Collectors Universe, Inc.",CLCT,0
+560,Carolina Bank Holdings Inc.,CLBH,0
+558,Capitol Acquisition Corp. II,CLACU,0
+645,Capitala Finance Corp.,CPTA,0
+557,Capitol Acquisition Corp. II,CLAC,0
+556,ClickSoftware Technologies Ltd.,CKSW,0
+555,"Carmike Cinemas, Inc.",CKEC,0
+551,CNinsure Inc.,CISG,0
+550,CIS Acquisition Ltd.,CISAW,0
+548,"Cimatron, Limited",CIMT,0
+547,CIFC Corp.,CIFC,0
+545,ChyronHego Corporation,CHYR,0
+543,WisdomTree China Dividend Ex,CHXF,0
+533,China Gerui Advanced Materials Group Limited,CHOP,0
+530,"China Housing & Land Development, Inc.",CHLN,0
+585,China Mobile Games and Entertainment Group Limited,CMGE,0
+589,"CMS Bancorp, Inc.",CMSB,0
+591,Conatus Pharmaceuticals Inc.,CNAT,0
+594,"Coronado Biosciences, Inc.",CNDO,0
+644,Capstone Turbine Corporation,CPST,0
+638,Capella Education Company,CPLA,0
+636,Cipher Pharmaceuticals Inc.,CPHR,0
+635,CEPHEID,CPHD,0
+633,"China Shengda Packaging Group, Inc.",CPGI,0
+632,CounterPath Corporation,CPAH,0
+629,Covisint Corporation,COVS,0
+627,"Cosi, Inc.",COSI,0
+625,"Corium International, Inc.",CORI,0
+624,Core,CORE,0
+612,CoBiz Financial Inc.,COBZ,0
+611,"Colonial Financial Services, Inc.",COBK,0
+610,CommunityOne Bancorp,COB,0
+609,"China Yida Holding, Co.",CNYD,0
+608,"Connecture, Inc.",CNXR,0
+607,Cnova N.V.,CNV,0
+605,China TechFaith Wireless Communication Technology Limited,CNTF,0
+603,Comverse Inc.,CNSI,0
+600,CB Pharma Acquisition Corp.,CNLMW,0
+599,CB Pharma Acquisition Corp.,CNLMU,0
+598,CB Pharma Acquisition Corp.,CNLMR,0
+597,CB Pharma Acquisition Corp.,CNLM,0
+596,"China Information Technology, Inc.",CNIT,0
+793,DragonWave Inc,DRWI,0
+794,DragonWave Inc,DRWIW,0
+795,DryShips Inc.,DRYS,0
+940,"EveryWare Global, Inc.",EVRY,0
+977,First Clover Leaf Financial Corp.,FCLF,0
+976,iShares FTSE China (HK Listed) Index Fund,FCHI,0
+969,"Fauquier Bankshares, Inc.",FBSS,0
+968,FBR & Co,FBRC,0
+967,"First Connecticut Bancorp, Inc.",FBNK,0
+955,EZchip Semiconductor Limited,EZCH,0
+953,Energy XXI Ltd.,EXXI,0
+947,"Exterran Partners, L.P.",EXLP,0
+946,EXFO Inc,EXFO,0
+943,"Exactech, Inc.",EXAC,0
+942,Exa Corporation,EXA,0
+935,"EV Energy Partners, L.P.",EVEP,0
+796,"Derma Sciences, Inc.",DSCI,0
+934,"Eastern Virginia Bankshares, Inc.",EVBS,0
+933,"Lombard Medical, Inc.",EVAR,0
+932,iShares MSCI Emerging Markets Value Index Fund,EVAL,0
+930,EnteroMedics Inc.,ETRM,0
+929,E*TRADE Financial Corporation,ETFC,0
+928,Elecsys Corporation,ESYS,0
+926,Essex Rental Corporation,ESSX,0
+924,Express Scripts Holding Company,ESRX,0
+920,"Electro Scientific Industries, Inc.",ESIO,0
+917,Escalera Resources Co.,ESCRP,0
+913,ESB Financial Corporation,ESBF,0
+979,"Fairchild Semiconductor International, Inc.",FCS,0
+980,Fibrocell Science Inc,FCSC,0
+981,"1st Century Bancshares, Inc",FCTY,0
+982,"First Capital Bancorp, Inc. (VA)",FCVA,0
+1041,Finisar Corporation,FNSR,0
+1040,ForceField Energy Inc.,FNRG,0
+1038,"Finjan Holdings, Inc.",FNJN,0
+1036,"Financial Engines, Inc.",FNGN,0
+1035,First Niagara Financial Group Inc.,FNFG,0
+1034,First NBC Bank Holding Company,FNBC,0
+1032,"Foundation Medicine, Inc.",FMI,0
+1031,FirstMerit Corporation,FMER,0
+1024,Flamel Technologies S.A.,FLML,0
+1022,"FLIR Systems, Inc.",FLIR,0
+1018,Barclays PLC,FLAT,0
+1010,"Marlin Midstream Partners, LP",FISH,0
+1009,"The Finish Line, Inc.",FINL,0
+1007,Female Health Company (The),FHCO,0
+1003,"First Federal of Northern Michigan Bancorp, Inc.",FFNM,0
+1002,Farmers Capital Bank Corporation,FFKT,0
+997,First Financial Bancorp.,FFBCW,0
+993,Forbes Energy Services Ltd,FES,0
+989,FEI Company,FEIC,0
+987,Federal,FDML,0
+985,First Defiance Financial Corp.,FDEF,0
+984,First Citizens Banc Corp.,FCZAP,0
+983,First Citizens Banc Corp.,FCZA,0
+912,VelocityShares Equal Risk Weighted Large Cap ETF,ERW,0
+911,"Empire Resources, Inc.",ERS,0
+910,"Eagle Rock Energy Partners, L.P.",EROC,0
+851,iShares MSCI Emerging Markets Latin America Index Fund,EEML,0
+848,"Ecology and Environment, Inc.",EEI,0
+845,Exceed Company Ltd.,EDS,0
+844,"Edgewater Technology, Inc.",EDGW,0
+842,"Endocyte, Inc.",ECYT,0
+841,"Echo Therapeutics, Inc.",ECTE,0
+833,"Eleven Biotherapeutics, Inc.",EBIO,0
+831,Auris Medical Holding AG,EARS,0
+826,Dyax Corp.,DYAX,0
+824,WisdomTree United Kingdom Hedged Equity Fund,DXPS,0
+822,"Dex Media, Inc.",DXM,0
+820,WisdomTree Korea Hedged Equity Fund,DXKW,0
+815,Datawatch Corporation,DWCH,0
+813,"Dreamworks Animation SKG, Inc.",DWA,0
+810,Barclays PLC,DTYS,0
+809,Barclays PLC,DTYL,0
+808,DIRECTV,DTV,0
+807,Barclays PLC,DTUS,0
+806,Barclays PLC,DTUL,0
+805,"DTS, Inc.",DTSI,0
+804,Datalink Corporation,DTLK,0
+800,iDreamSky Technology Limited,DSKY,0
+799,"DS Healthcare Group, Inc.",DSKX,0
+797,"Discovery Laboratories, Inc.",DSCO,0
+850,iShares MSCI Emerging Markets EMEA Index Fund,EEME,0
+852,"Electronics for Imaging, Inc.",EFII,0
+906,"Eldorado Resorts, Inc.",ERI,0
+855,eFuture Information Technology Inc.,EFUT,0
+903,"EPIRUS Biopharmaceuticals, Inc.",EPRS,0
+902,"EPIQ Systems, Inc.",EPIQ,0
+900,"Ambassadors Group, Inc.",EPAX,0
+899,"E2open, Inc.",EOPN,0
+898,Enzymotec Ltd.,ENZY,0
+892,Global Eagle Entertainment Inc.,ENT,0
+889,"EnerNOC, Inc.",ENOC,0
+887,Entegra Financial Corp.,ENFC,0
+885,Emmis Communications Corporation,EMMSP,0
+879,iShares MSCI Emerging Markets Energy Sector Capped Index Fund,EMEY,0
+878,iShares MSCI Emerging Markets Consumer Discrectionary Sector Index Fund,EMDI,0
+877,EMC Insurance Group Inc.,EMCI,0
+876,WisdomTree Emerging Markets Consumer Growth Fund,EMCG,0
+871,Electro Rent Corporation,ELRC,0
+870,Syneron Medical Ltd.,ELOS,0
+869,Echelon Corporation,ELON,0
+868,EarthLink Holdings Corp.,ELNK,0
+867,"Endologix, Inc.",ELGX,0
+866,"Endurance International Group Holdings, Inc.",EIGI,0
+864,Entertainment Gaming Asia Incorporated,EGT,0
+862,iShares MSCI Emerging Markets Growth Index Fund,EGRW,0
+861,NIC Inc.,EGOV,0
+860,Egalet Corporation,EGLT,0
+528,Cherokee Inc.,CHKE,0
+526,Charter Financial Corp.,CHFN,0
+525,Chemical Financial Corporation,CHFC,0
+162,Access National Corporation,ANCX,0
+191,Aradigm Corporation,ARDM,0
+189,"American Realty Capital Properties, Inc.",ARCPP,0
+188,"American Realty Capital Properties, Inc.",ARCP,0
+187,"Appliance Recycling Centers of America, Inc.",ARCI,0
+183,"Aquinox Pharmaceuticals, Inc.",AQXP,0
+180,Alto Palermo S.A.,APSA,0
+179,"Apricus Biosciences, Inc",APRI,0
+178,"Venaxis, Inc.",APPY,0
+177,"Apollo Education Group, Inc.",APOL,0
+174,Applied DNA Sciences Inc,APDNW,0
+172,Apco Oil and Gas International Inc.,APAGF,0
+161,American Caresource Holdings Inc,ANCI,0
+270,"Axion Power International, Inc.",AXPW,0
+160,Anchor Bancorp,ANCB,0
+158,"ANADIGICS, Inc.",ANAD,0
+152,Amsurg Corp.,AMSGP,0
+151,Amsurg Corp.,AMSG,0
+145,"Albany Molecular Research, Inc.",AMRI,0
+144,American River Bankshares,AMRB,0
+138,American Independence Corp.,AMIC,0
+135,Amedica Corporation,AMDA,0
+132,AirMedia Group Inc,AMCN,0
+130,Applied Micro Circuits Corporation,AMCC,0
+129,"Ambac Financial Group, Inc.",AMBCW,0
+193,Approach Resources Inc.,AREX,0
+194,"Argos Therapeutics, Inc.",ARGS,0
+195,"ARIAD Pharmaceuticals, Inc.",ARIA,0
+196,"American Railcar Industries, Inc.",ARII,0
+262,"Avanir Pharmaceuticals, Inc.",AVNR,0
+256,"Auxilium Pharmaceuticals, Inc.",AUXL,0
+254,AR Capital Acquisition Corp.,AUMAW,0
+253,AR Capital Acquisition Corp.,AUMAU,0
+252,AR Capital Acquisition Corp.,AUMA,0
+248,Attunity Ltd.,ATTU,0
+244,"ATRM Holdings, Inc.",ATRM,0
+239,API Technologies Corp.,ATNY,0
+237,Atmel Corporation,ATML,0
+231,"Astea International, Inc.",ATEA,0
+221,"Auspex Pharmaceuticals, Inc.",ASPX,0
+219,"Ascena Retail Group, Inc.",ASNA,0
+217,ASM International N.V.,ASMI,0
+215,"Asta Funding, Inc.",ASFI,0
+214,"American Science and Engineering, Inc.",ASEI,0
+213,"Ascent Capital Group, Inc.",ASCMA,0
+212,Ameriana Bancorp,ASBI,0
+211,"ASB Bancorp, Inc.",ASBB,0
+209,"Aruba Networks, Inc.",ARUN,0
+208,Arotech Corporation,ARTX,0
+204,"ARRIS Group, Inc.",ARRS,0
+203,"ArQule, Inc.",ARQL,0
+200,ARM Holdings plc,ARMH,0
+125,"AMAG Pharmaceuticals, Inc.",AMAG,0
+124,"Alexion Pharmaceuticals, Inc.",ALXN,0
+123,"Alexza Pharmaceuticals, Inc.",ALXA,0
+63,"Advent Software, Inc.",ADVS,0
+57,BLDRS Developed Markets 100 ADR Index Fund,ADRD,0
+54,"Audience, Inc.",ADNC,0
+49,Alcobra Ltd.,ADHD,0
+47,"Adept Technology, Inc.",ADEP,0
+45,Authentidate Holding Corp.,ADAT,0
+44,Acxiom Corporation,ACXM,0
+40,"Actions Semiconductor Co., Ltd.",ACTS,0
+38,Actua Corporation,ACTA,0
+36,"American Capital Senior Floating, Ltd.",ACSF,0
+34,"Active Power, Inc.",ACPW,0
+25,Atlantic Coast Financial Corporation,ACFC,0
+23,Arctic Cat Inc.,ACAT,0
+22,"American Capital, Ltd.",ACAS,0
+20,Abengoa Yield plc,ABY,0
+19,Autobytel Inc.,ABTL,0
+16,"Abengoa, S.A.",ABGB,0
+15,Alcentra Capital Corp.,ABDC,0
+14,Anchor BanCorp Wisconsin Inc.,ABCW,0
+13,The Advisory Board Company,ABCO,0
+12,"Cambium Learning Group, Inc.",ABCD,0
+10,"ABAXIS, Inc.",ABAX,0
+9,"Aoxin Tianli Group, Inc.",ABAC,0
+6,"Avalanche Biotechnologies, Inc.",AAVL,0
+59,BLDRS Europe 100 ADR Index Fund,ADRU,0
+65,"Advaxis, Inc.",ADXSW,0
+121,"Alaska Communications Systems Group, Inc.",ALSK,0
+66,Aegion Corp,AEGN,0
+120,"Alliqua, Inc.",ALQA,0
+118,Analogic Corporation,ALOG,0
+115,"Alliance Bancorp, Inc. of Pennsylvania",ALLB,0
+109,"Alder BioPharmaceuticals, Inc.",ALDR,0
+107,"Akorn, Inc.",AKRX,0
+106,Akers Biosciences Inc,AKER,0
+104,"Achaogen, Inc.",AKAO,0
+102,Aixtron SE,AIXG,0
+99,Air Methods Corporation,AIRM,0
+94,"Alliance Holdings GP, L.P.",AHGP,0
+89,WisdomTree Barclays U.S. Aggregate Bond Negative Duration Fund,AGND,0
+87,American Capital Agency Corp.,AGNCB,0
+84,"Argo Group International Holdings, Ltd.",AGIIL,0
+83,"Argo Group International Holdings, Ltd.",AGII,0
+81,"AmTrust Financial Services, Inc.",AFSI,0
+80,"Alliance Fiber Optic Products, Inc.",AFOP,0
+78,"Atlas Financial Holdings, Inc.",AFH,0
+77,"Affymetrix, Inc.",AFFX,0
+76,Athens Bancshares Corporation,AFCB,0
+75,Almost Family Inc,AFAM,0
+72,"American Electric Technologies, Inc.",AETI,0
+70,AEP Industries Inc.,AEPI,0
+67,"Aegerion Pharmaceuticals, Inc.",AEGR,0
+269,iShares MSCI All Country Asia ex Japan Small Cap Index Fund,AXJS,0
+271,"Axion Power International, Inc.",AXPWW,0
+524,Cheviot Financial Corp,CHEV,0
+423,"Callidus Software, Inc.",CALD,0
+448,Cathay General Bancorp,CATYW,0
+446,"Cardtronics, Inc.",CATM,0
+443,"CAS Medical Systems, Inc.",CASM,0
+438,Carolina Trust Bank,CART,0
+437,Carolina Financial Corporation,CARO,0
+436,"Carbonite, Inc.",CARB,0
+433,"Capnia, Inc.",CAPNW,0
+432,"Capnia, Inc.",CAPN,0
+429,Cambridge Capital Acquisition Corporation,CAMBW,0
+428,Cambridge Capital Acquisition Corporation,CAMBU,0
+427,Cambridge Capital Acquisition Corporation,CAMB,0
+420,DT Asia Investments Limited,CADTW,0
+274,Natus Medical Incorporated,BABY,0
+419,DT Asia Investments Limited,CADTU,0
+418,DT Asia Investments Limited,CADTR,0
+417,DT Asia Investments Limited,CADT,0
+416,"China Advanced Construction Materials Group, Inc.",CADC,0
+415,Caesars Acquisition Company,CACQ,0
+413,Chart Acquisition Corp.,CACGW,0
+412,Chart Acquisition Corp.,CACGU,0
+409,Cascade Bancorp,CACB,0
+406,CA Inc.,CA,0
+405,Baylake Corp,BYLK,0
+403,"Bay Bancorp, Inc.",BYBK,0
+449,"Cavium, Inc.",CAVM,0
+450,"China BAK Battery, Inc.",CBAK,0
+453,CBD Energy Limited,CBDE,0
+454,Capital Bank Financial Corp.,CBF,0
+517,"Cancer Genetics, Inc.",CGIX,0
+514,ContraFect Corporation,CFRXZ,0
+513,ContraFect Corporation,CFRXW,0
+510,Cardinal Financial Corporation,CFNL,0
+508,Calamos Focus Growth ETF,CFGE,0
+502,Central European Media Enterprises Ltd.,CETV,0
+501,Cerulean Pharma Inc.,CERU,0
+494,"Cempra, Inc.",CEMP,0
+492,Celgene Corporation,CELGZ,0
+491,Celgene Corporation,CELG,0
+490,Career Education Corporation,CECO,0
+472,"China Commercial Credit, Inc.",CCCR,0
+471,"China Ceramics Co., Ltd.",CCCL,0
+469,"Cubist Pharmaceuticals, Inc.",CBSTZ,0
+468,"Cubist Pharmaceuticals, Inc.",CBST,0
+467,"Commerce Bancshares, Inc.",CBSHP,0
+465,"Columbia Laboratories, Inc.",CBRX,0
+463,"China Biologic Products, Inc.",CBPO,0
+460,"Cape Bancorp, Inc.",CBNJ,0
+459,CombiMatrix Corporation,CBMX,0
+458,"Cellular Biomedicine Group, Inc.",CBMG,0
+457,"Cleveland BioLabs, Inc.",CBLI,0
+456,"Community Bank Shares of Indiana, Inc.",CBIN,0
+402,"Buffalo Wild Wings, Inc.",BWLD,0
+401,"Baldwin & Lyons, Inc.",BWINB,0
+400,"Baldwin & Lyons, Inc.",BWINA,0
+336,The Bank of Kentucky Financial Corp.,BKYF,0
+328,Actuate Corporation,BIRT,0
+327,"BioScrip, Inc.",BIOS,0
+325,Biodel Inc.,BIOD,0
+323,"BIND Therapeutics, Inc.",BIND,0
+318,"Blue Hills Bancorp, Inc.",BHBK,0
+309,"B/E Aerospace, Inc.",BEAV,0
+306,"Birner Dental Management Services, Inc.",BDMS,0
+305,"Bridge Bancorp, Inc.",BDGE,0
+304,"Black Diamond, Inc.",BDE,0
+303,"BDCA Venture, Inc.",BDCV,0
+302,"Boulder Brands, Inc.",BDBD,0
+297,B Communications Ltd.,BCOM,0
+293,BlackBerry Limited,BBRY,0
+292,"Bravo Brio Restaurant Group, Inc.",BBRG,0
+290,Black Box Corporation,BBOX,0
+289,Bridge Capital Holdings,BBNK,0
+288,"Blue Earth, Inc.",BBLU,0
+286,"BreitBurn Energy Partners, L.P.",BBEPP,0
+285,"BreitBurn Energy Partners, L.P.",BBEP,0
+284,"BBCN Bancorp, Inc.",BBCN,0
+281,"Bioanalytical Systems, Inc.",BASI,0
+276,Books,BAMM,0
+275,"Diversified Restaurant Holdings, Inc.",BAGR,0
+334,Bank Mutual Corporation,BKMU,0
+344,"BSB Bancorp, Inc.",BLMT,0
+397,"BroadVision, Inc.",BVSN,0
+347,Boulevard Acquisition Corp.,BLVD,0
+396,Cordia Bancorp Inc.,BVA,0
+392,"BTU International, Inc.",BTUI,0
+391,BioSpecifics Technologies Corp,BSTC,0
+387,"BroadSoft, Inc.",BSFT,0
+386,"Bear State Financial, Inc.",BSF,0
+384,BSD Medical Corporation,BSDM,0
+378,"Craft Brew Alliance, Inc.",BREW,0
+377,"Borderfree, Inc.",BRDR,0
+376,Broadcom Corporation,BRCM,0
+375,"Brocade Communications Systems, Inc.",BRCD,0
+370,"Boston Private Financial Holdings, Inc.",BPFHW,0
+369,"Boston Private Financial Holdings, Inc.",BPFHP,0
+368,"Boston Private Financial Holdings, Inc.",BPFH,0
+366,"Biota Pharmaceuticals, Inc.",BOTA,0
+363,The Bon,BONT,0
+362,Bona Film Group Limited,BONA,0
+360,"BofI Holding, Inc.",BOFI,0
+359,Bank of Commerce Holdings (CA),BOCH,0
+358,"Bob Evans Farms, Inc.",BOBE,0
+354,BNC Bancorp,BNCN,0
+353,"Beneficial Mutual Bancorp, Inc.",BNCL,0
+349,Boulevard Acquisition Corp.,BLVDW,0
+348,Boulevard Acquisition Corp.,BLVDU,0
+1043,Foamix Pharmaceuticals Ltd.,FOMX,0
+1044,First Trust NASDAQ CEA Smartphone Index Fund,FONE,0
+1054,"Five Prime Therapeutics, Inc.",FPRX,0
+1730,"Mellanox Technologies, Ltd.",MLNX,0
+1758,Magellan Petroleum Corporation,MPET,0
+1757,Melco Crown Entertainment Limited,MPEL,0
+1751,"MOL Global, Inc.",MOLG,0
+1750,MOKO Social Media Ltd.,MOKO,0
+1748,"MOCON, Inc.",MOCO,0
+1746,Sky,MOBI,0
+1744,"Momenta Pharmaceuticals, Inc.",MNTA,0
+1741,"Monarch Financial Holdings, Inc.",MNRK,0
+1738,MagneGas Corporation,MNGA,0
+1736,"Mandalay Digital Group, Inc",MNDL,0
+1732,"MMA Capital Management, LLC",MMAC,0
+1725,"Marketo, Inc.",MKTO,0
+1823,NeuroDerm Ltd.,NDRM,0
+1723,Mitel Networks Corporation,MITL,0
+1721,"Mobile Mini, Inc.",MINI,0
+1719,"The Michaels Companies, Inc.",MIK,0
+1718,"Novatel Wireless, Inc.",MIFI,0
+1716,"Micronet Enertec Technologies, Inc.",MICTW,0
+1714,"Maiden Holdings, Ltd.",MHLDO,0
+1712,Morgans Hotel Group Co.,MHGC,0
+1703,MGC Diagnostics Corporation,MGCD,0
+1702,MutualFirst Financial Inc.,MFSF,0
+1701,Mattress Firm Holding Corp.,MFRM,0
+1700,"MFRI, Inc.",MFRI,0
+1762,Memorial Resource Development Corp.,MRD,0
+1764,Markit Ltd.,MRKT,0
+1769,"MRV Communications, Inc.",MRVC,0
+1771,MSB Financial Corp.,MSBF,0
+1816,NB&T FINANCIAL GROUP INC,NBTF,0
+1814,"Neostem, Inc.",NBS,0
+1811,NewBridge Bancorp,NBBC,0
+1809,"The Navigators Group, Inc.",NAVG,0
+1806,National Interstate Corporation,NATL,0
+1803,Nanometrics Incorporated,NANO,0
+1802,"Rightside Group, Ltd.",NAME,0
+1800,Mazor Robotics Ltd.,MZOR,0
+1798,MYOS Corporation,MYOS,0
+1797,Mylan Inc.,MYL,0
+1795,"Maxwell Technologies, Inc.",MXWL,0
+1794,"Maxim Integrated Products, Inc.",MXIM,0
+1793,"MWI Veterinary Supply, Inc.",MWIV,0
+1791,AdvisorShares Sunrise Global Multi,MULT,0
+1789,"Mattson Technology, Inc.",MTSN,0
+1788,MER Telemanagement Solutions Ltd.,MTSL,0
+1786,MTS Systems Corporation,MTSC,0
+1783,American Capital Mortgage Investment Corp.,MTGEP,0
+1782,American Capital Mortgage Investment Corp.,MTGE,0
+1777,Merus Labs International Inc.,MSLI,0
+1776,The Madison Square Garden Company,MSG,0
+1774,"MainSource Financial Group, Inc.",MSFG,0
+1772,Microsemi Corporation,MSCC,0
+1699,Mackinac Financial Corporation,MFNC,0
+1698,Multi,MFLX,0
+1697,MicroFinancial Incorporated,MFI,0
+1651,MB Financial Inc.,MBFIP,0
+1646,Mattersight Corporation,MATR,0
+1637,"MAM Software Group, Inc.",MAMS,0
+1636,Magal Security Systems Ltd.,MAGS,0
+1630,Liberty Interactive Corporation,LVNTB,0
+1629,Liberty Interactive Corporation,LVNTA,0
+1626,"LegacyTexas Financial Group, Inc.",LTXB,0
+1616,LRAD Corporation,LRAD,0
+1614,"Lpath, Inc.",LPTN,0
+1611,"LaPorte Bancorp, Inc.",LPSB,0
+1610,"LifePoint Hospitals, Inc.",LPNT,0
+1608,Life Partners Holdings Inc,LPHI,0
+1606,"Loxo Oncology, Inc.",LOXO,0
+1603,"LookSmart, Ltd.",LOOK,0
+1602,"eLong, Inc.",LONG,0
+1601,LoJack Corporation,LOJN,0
+1600,"LogMein, Inc.",LOGM,0
+1597,Local Corporation,LOCM,0
+1594,"Linn Co, LLC",LNCO,0
+1593,Snyder's,LNCE,0
+1592,"LNB Bancorp, Inc.",LNBB,0
+1590,Lumos Networks Corp.,LMOS,0
+1589,Luminex Corporation,LMNX,0
+1588,Lumenis Ltd.,LMNS,0
+1650,MB Financial Inc.,MBFI,0
+1653,"Metabolix, Inc.",MBLX,0
+1696,"Metro Bancorp, Inc",METR,0
+1654,Middleburg Financial Corporation,MBRG,0
+1695,"Meru Networks, Inc.",MERU,0
+1692,Mentor Graphics Corporation,MENT,0
+1691,Memorial Production Partners LP,MEMP,0
+1690,"Melrose Bancorp, Inc.",MELR,0
+1688,"MELA Sciences, Inc",MELA,0
+1686,Methes Energies International Ltd,MEILZ,0
+1685,Methes Energies International Ltd,MEILW,0
+1683,"MeetMe, Inc.",MEET,0
+1680,Medovex Corp.,MDVXU,0
+1679,"Medivation, Inc.",MDVN,0
+1678,"BluePhoenix Solutions, Ltd.",MDSY,0
+1677,"Medidata Solutions, Inc.",MDSO,0
+1675,Mountain Province Diamonds Inc.,MDM,0
+1672,The Medicines Company,MDCO,0
+1671,MDC Partners Inc.,MDCA,0
+1670,"MedAssets, Inc.",MDAS,0
+1669,Macrocure Ltd.,MCUR,0
+1668,"Micrel, Incorporated",MCRL,0
+1666,Mecox Lane Limited,MCOX,0
+1663,MCG Capital Corporation,MCGC,0
+1662,Mid,MCEP,0
+1658,"Merchants Bancshares, Inc.",MBVT,0
+1656,M B T Financial Corp,MBTF,0
+1817,"NCI, Inc.",NCIT,0
+1829,"Neothetics, Inc.",NEOT,0
+1585,Liberty Media Corporation,LMCK,0
+1992,"New Patriot Transportation Holding, Inc.",PATIV,0
+2022,"PDI, Inc.",PDII,0
+2014,"Pharmacyclics, Inc.",PCYC,0
+2009,Pendrell Corporation,PCO,0
+2008,"PCM, Inc.",PCMI,0
+2007,The Priceline Group Inc.,PCLN,0
+2005,"PC Connection, Inc.",PCCC,0
+2004,Pacific Continental Corporation (Ore),PCBK,0
+2002,"Poage Bankshares, Inc.",PBSK,0
+2000,Prima BioMed Ltd,PBMD,0
+1998,"Porter Bancorp, Inc.",PBIB,0
+1995,"Polonia Bancorp, Inc.",PBCP,0
+1991,Parnell Pharmaceuticals Holdings Ltd,PARN,0
+1834,"NewStar Financial, Inc.",NEWS,0
+1988,PowerShares Global Agriculture Portfolio,PAGG,0
+1984,Bank of the Ozarks,OZRK,0
+1981,Oxford Lane Capital Corp.,OXLCN,0
+1979,"OXiGENE, Inc.",OXGN,0
+1978,Oxford Immunotec Global PLC,OXFD,0
+1977,Oxbridge Re Holdings Limited,OXBRW,0
+1975,"OmniVision Technologies, Inc.",OVTI,0
+1972,OvaScience Inc.,OVAS,0
+1971,Outerwall Inc.,OUTR,0
+1969,On Track Innovations Ltd,OTIV,0
+1966,Otelco Inc.,OTEL,0
+2023,"PDL BioPharma, Inc.",PDLI,0
+2027,Pattern Energy Group Inc.,PEGI,0
+2028,"Pacific Ethanol, Inc.",PEIX,0
+2030,Penford Corporation,PENX,0
+2086,Pointer Telocation Ltd.,PNTR,0
+2084,Panera Bread Company,PNRA,0
+2079,"PMFG, Inc.",PMFG,0
+2076,PMC,PMCS,0
+2070,"Planet Payment, Inc.",PLPM,0
+2068,"Planar Systems, Inc.",PLNR,0
+2067,"Palmetto Bancshares, Inc. (SC)",PLMT,0
+2066,"Popeyes Louisiana Kitchen, Inc.",PLKI,0
+2065,"Polycom, Inc.",PLCM,0
+2060,"Procera Networks, Inc.",PKT,0
+2056,"1347 Property Insurance Holdings, Inc.",PIH,0
+2055,PICO Holdings Inc.,PICO,0
+2054,"PhotoMedex, Inc.",PHMD,0
+2053,"PHI, Inc.",PHIIK,0
+2052,"PHI, Inc.",PHII,0
+2050,Progenics Pharmaceuticals Inc.,PGNX,0
+2047,"Proofpoint, Inc.",PFPT,0
+2040,"Premier Financial Bancorp, Inc.",PFBI,0
+2038,"Aratana Therapeutics, Inc.",PETX,0
+2036,"PetSmart, Inc",PETM,0
+2034,Perry Ellis International Inc.,PERY,0
+2032,"Perfumania Holdings, Inc",PERF,0
+2031,"Peoples Federal Bancshares, Inc.",PEOP,0
+1963,"Ossen Innovation Co., Ltd.",OSN,0
+1962,SLM Corporation,OSM,0
+1960,"Osiris Therapeutics, Inc.",OSIR,0
+1902,"NxStage Medical, Inc.",NXTM,0
+1892,"Northwest Biotherapeutics, Inc.",NWBOW,0
+1889,Naugatuck Valley Financial Corporation,NVSL,0
+1887,Novogen Limited,NVGN,0
+1885,"NV5 Holdings, Inc.",NVEEW,0
+1882,Novadaq Technologies Inc,NVDQ,0
+1877,Nutraceutical International Corporation,NUTR,0
+1873,Northern Trust Corporation,NTRSP,0
+1871,NutriSystem Inc,NTRI,0
+1870,NTELOS Holdings Corp.,NTLS,0
+1869,Nortek Inc.,NTK,0
+1860,"Nanosphere, Inc.",NSPH,0
+1857,"NephroGenex, Inc.",NRX,0
+1855,National Research Corporation,NRCIB,0
+1854,National Research Corporation,NRCIA,0
+1853,"NPS Pharmaceuticals, Inc.",NPSP,0
+1852,"National Penn Bancshares, Inc.",NPBC,0
+1850,Numerex Corp.,NMRX,0
+1847,NewLink Genetics Corporation,NLNK,0
+1844,"Blue Nile, Inc.",NILE,0
+1841,"New Hampshire Thrift Bancshares, Inc.",NHTB,0
+1840,National General Holdings Corp,NGHCP,0
+1839,National General Holdings Corp,NGHC,0
+1837,NF Energy Saving Corporation,NFEC,0
+1901,NXT,NXTDW,0
+1906,"Empire Resorts, Inc.",NYNY,0
+1959,Ocean Shore Holding Co.,OSHC,0
+1911,"Oclaro, Inc.",OCLR,0
+1958,"Old Second Bancorp, Inc.",OSBCP,0
+1955,Bio Blast Pharma Ltd.,ORPN,0
+1952,Oritani Financial Corp.,ORIT,0
+1951,Ocean Rig UDW Inc.,ORIG,0
+1950,"Orexigen Therapeutics, Inc.",OREX,0
+1949,Orbotech Ltd.,ORBK,0
+1948,ORBCOMM Inc.,ORBC,0
+1947,"Opexa Therapeutics, Inc.",OPXA,0
+1944,Ophthotech Corporation,OPHT,0
+1942,Opus Bank,OPB,0
+1941,"Onvia, Inc.",ONVI,0
+1940,Oncothyreon Inc.,ONTY,0
+1938,ON Semiconductor Corporation,ONNN,0
+1937,Oneida Financial Corp.,ONFC,0
+1931,"OncoMed Pharmaceuticals, Inc.",OMED,0
+1927,"Old Line Bancshares, Inc.",OLBK,0
+1926,"Southwest Bancorp, Inc.",OKSB,0
+1924,"Ohr Pharmaceuticals, Inc.",OHRP,0
+1923,"One Horizon Group, Inc.",OHGI,0
+1922,OHA Investment Corporation,OHAI,0
+1921,OncoGenex Pharmaceuticals Inc.,OGXI,0
+1913,"Ocera Therapeutics, Inc.",OCRX,0
+1912,"Oculus Innovative Sciences, Inc.",OCLS,0
+1586,"LMI Aerospace, Inc.",LMIA,0
+1584,Liberty Media Corporation,LMCB,0
+1056,Francesca's Holdings Corporation,FRAN,0
+1228,Hancock Holding Company,HBHC,0
+1247,"Hortonworks, Inc.",HDP,0
+1246,"Hardinge, Inc.",HDNG,0
+1245,"American Realty Capital Healthcare Trust, Inc.",HCT,0
+1240,"Hudson City Bancorp, Inc.",HCBK,0
+1239,Harvest Capital Credit Corporation,HCAP,0
+1238,Hennessy Capital Acquisition Corp.,HCACW,0
+1237,Hennessy Capital Acquisition Corp.,HCACU,0
+1236,Hennessy Capital Acquisition Corp.,HCAC,0
+1234,Heritage Financial Group,HBOS,0
+1233,"Hampden Bancorp, Inc.",HBNK,0
+1230,"Hamilton Bancorp, Inc.",HBK,0
+1223,"Blackhawk Network Holdings, Inc.",HAWKB,0
+1319,Houston Wire & Cable Company,HWCC,0
+1215,"The Habit Restaurants, Inc.",HABT,0
+1212,GW Pharmaceuticals Plc,GWPH,0
+1208,WisdomTree Middle East Dividend Fund,GULF,0
+1207,"Guidance Software, Inc.",GUID,0
+1206,"GTx, Inc.",GTXI,0
+1205,"Georgetown Bancorp, Inc.",GTWN,0
+1203,"Gentiva Health Services, Inc.",GTIV,0
+1200,GSV Capital Corp,GSVC,0
+1199,Global Sources Ltd.,GSOL,0
+1190,"Griffin Land & Nurseries, Inc.",GRIF,0
+1183,Gaming Partners International Corporation,GPIC,0
+1248,Hydra Industries Acquisition Corp.,HDRA,0
+1249,Hydra Industries Acquisition Corp.,HDRAR,0
+1250,Hydra Industries Acquisition Corp.,HDRAU,0
+1251,Hydra Industries Acquisition Corp.,HDRAW,0
+1313,"Heartware International, Inc.",HTWR,0
+1312,HF2 Financial Management Inc.,HTWO,0
+1308,Hutchinson Technology Incorporated,HTCH,0
+1302,"Hanwha SolarOne Co., Ltd.",HSOL,0
+1301,"HSN, Inc.",HSNI,0
+1297,Histogenics Corporation,HSGX,0
+1293,"Hyperion Therapeutics, Inc.",HPTX,0
+1292,Highpower International Inc,HPJ,0
+1290,"Chanticleer Holdings, Inc.",HOTRW,0
+1289,"Chanticleer Holdings, Inc.",HOTR,0
+1284,"Hansen Medical, Inc.",HNSN,0
+1281,Handy & Harman Ltd.,HNH,0
+1279,HMS Holdings Corp,HMSY,0
+1277,Hampton Roads Bankshares Inc,HMPR,0
+1274,Homeinns Hotel Group,HMIN,0
+1272,"Home Loan Servicing Solutions, Ltd.",HLSS,0
+1270,Hong Kong Television Network Limited,HKTV,0
+1268,Dot Hill Systems Corporation,HILL,0
+1267,"Health Insurance Innovations, Inc.",HIIQ,0
+1261,HF Financial Corp.,HFFC,0
+1259,"HopFed Bancorp, Inc.",HFBC,0
+1257,Heritage Oaks Bancorp,HEOP,0
+1252,"HD Supply Holdings, Inc.",HDS,0
+1180,Gladstone Commercial Corporation,GOODP,0
+1176,Sungy Mobile Limited,GOMO,0
+1173,"GenVec, Inc.",GNVC,0
+1110,"Galena Biopharma, Inc.",GALE,0
+1108,Gladstone Investment Corporation,GAINO,0
+1105,Global,GAI,0
+1103,"FX Energy, Inc.",FXENP,0
+1102,"FX Energy, Inc.",FXEN,0
+1101,"Fox Chase Bancorp, Inc.",FXCB,0
+1098,Fairway Group Holdings Corp.,FWM,0
+1093,Full Circle Capital Corporation,FULLL,0
+1092,Full Circle Capital Corporation,FULL,0
+1091,Rocket Fuel Inc.,FUEL,0
+1088,Frontier Communications Corporation,FTR,0
+1082,"FTD Companies, Inc.",FTD,0
+1080,"Fuel Systems Solutions, Inc.",FSYS,0
+1078,FirstService Corporation,FSRV,0
+1077,"Fusion Telecommunications International, Inc.",FSNN,0
+1075,"First Security Group, Inc.",FSGI,0
+1074,Fifth Street Senior Floating Rate Corp.,FSFR,0
+1072,Fifth Street Finance Corp.,FSCFL,0
+1071,Fifth Street Finance Corp.,FSC,0
+1069,First South Bancorp Inc,FSBK,0
+1068,Fifth Street Asset Management Inc.,FSAM,0
+1065,"FRP Holdings, Inc.",FRPHV,0
+1063,"FairPoint Communications, Inc.",FRP,0
+1059,"Fred's, Inc.",FRED,0
+1109,Gladstone Investment Corporation,GAINP,0
+1112,Galectin Therapeutics Inc.,GALTU,0
+1171,"GenMark Diagnostics, Inc.",GNMK,0
+1113,Galectin Therapeutics Inc.,GALTW,0
+1169,"General Communication, Inc.",GNCMA,0
+1167,"Green Bancorp, Inc.",GNBC,0
+1166,Golar LNG Partners LP,GMLP,0
+1165,"Keurig Green Mountain, Inc.",GMCR,0
+1164,"Gordmans Stores, Inc.",GMAN,0
+1162,Glu Mobile Inc.,GLUU,0
+1154,"Golden Enterprises, Inc.",GLDC,0
+1151,Gladstone Capital Corporation,GLADO,0
+1149,"Geeknet, Inc.",GKNT,0
+1141,"Genomic Health, Inc.",GHDX,0
+1139,Garnero Group Acquisition Company,GGACW,0
+1138,Garnero Group Acquisition Company,GGACU,0
+1137,Garnero Group Acquisition Company,GGACR,0
+1136,Garnero Group Acquisition Company,GGAC,0
+1135,General Finance Corporation,GFNSL,0
+1134,General Finance Corporation,GFNCP,0
+1133,General Finance Corporation,GFN,0
+1130,Synageva BioPharma Corp.,GEVA,0
+1125,"Global Defense & National Security Systems, Inc.",GDEF,0
+1124,Sanofi,GCVRZ,0
+1122,"Great Basin Scientific, Inc.",GBSN,0
+1121,Guaranty Bancorp,GBNK,0
+1115,Garrison Capital Inc.,GARS,0
+1317,"Healthways, Inc.",HWAY,0
+1321,Hydrogenics Corporation,HYGS,0
+1583,Liberty Media Corporation,LMCA,0
+1489,"iKang Healthcare Group, Inc.",KANG,0
+1516,Cesca Therapeutics Inc.,KOOL,0
+1515,Kingtone Wirelessinfo Solution Holding Ltd,KONE,0
+1514,"Kona Grill, Inc.",KONA,0
+1511,KLX Inc.,KLXI,0
+1508,"Kite Pharma, Inc.",KITE,0
+1505,"Kindred Biosciences, Inc.",KIN,0
+1503,Kofax Limited,KFX,0
+1500,The KEYW Holding Corporation,KEYW,0
+1499,"Keryx Biopharmaceuticals, Inc.",KERX,0
+1493,"KCAP Financial, Inc.",KCAP,0
+1491,"KaloBios Pharmaceuticals, Inc.",KBIO,0
+1486,Jacksonville Bancorp Inc.,JXSB,0
+1323,WisdomTree BofA Merrill Lynch High Yield Bond Negative Duration Fund,HYND,0
+1484,"Juno Therapeutics, Inc.",JUNO,0
+1482,Jinpan International Limited,JST,0
+1477,Joe's Jeans Inc.,JOEZ,0
+1475,"Jamba, Inc.",JMBA,0
+1472,"Jive Software, Inc.",JIVE,0
+1471,WisdomTree Japan Interest Rate Strategy Fund,JGBB,0
+1470,JDS Uniphase Corporation,JDSU,0
+1461,"Jacksonville Bancorp, Inc.",JAXB,0
+1460,"JA Solar Holdings, Co., Ltd.",JASO,0
+1459,"Jason Industries, Inc.",JASNW,0
+1458,"Jason Industries, Inc.",JASN,0
+1520,"Kraft Foods Group, Inc.",KRFT,0
+1525,"K2M Group Holdings, Inc.",KTWO,0
+1526,"Ku6 Media Co., Ltd.",KUTV,0
+1529,"Kythera Biopharmaceuticals, Inc.",KYTH,0
+1580,Linear Technology Corporation,LLTC,0
+1578,"Lilis Energy, Inc.",LLEX,0
+1573,"Liquid Holdings Group, Inc.",LIQD,0
+1572,"Lionbridge Technologies, Inc.",LIOX,0
+1571,Fidelity Southern Corporation,LION,0
+1570,"Linn Energy, LLC",LINE,0
+1568,Lime Energy Co.,LIME,0
+1564,Legacy Reserves LP,LGCYP,0
+1563,Legacy Reserves LP,LGCYO,0
+1562,Legacy Reserves LP,LGCY,0
+1559,Levy Acquisition Corp.,LEVYW,0
+1558,Levy Acquisition Corp.,LEVYU,0
+1557,Levy Acquisition Corp.,LEVY,0
+1553,PowerShares LadderRite 0,LDRI,0
+1552,LDR Holding Corporation,LDRH,0
+1546,Liberty Broadband Corporation,LBRKR,0
+1543,Leading Brands Inc,LBIX,0
+1541,Layne Christensen Company,LAYN,0
+1535,PowerShares Actively Managed Exchange,LALT,0
+1533,"Lakes Entertainment, Inc.",LACO,0
+1532,Multi,LABL,0
+1531,"Louisiana Bancorp, Inc.",LABC,0
+1530,KongZhong Corporation,KZ,0
+1456,Collabrium Japan Acquisition Corporation,JACQW,0
+1455,Collabrium Japan Acquisition Corporation,JACQU,0
+1454,Collabrium Japan Acquisition Corporation,JACQ,0
+1384,Internap Corporation,INAP,0
+1381,Immune Pharmaceuticals Inc.,IMNP,0
+1380,"Imprimis Pharmaceuticals, Inc.",IMMY,0
+1379,"Immunomedics, Inc.",IMMU,0
+1376,"Intermolecular, Inc.",IMI,0
+1374,Immune Design Corp.,IMDZ,0
+1371,Iao Kun Group Holding Company Limited,IKGH,0
+1370,"Ikanos Communications, Inc.",IKAN,0
+1367,"Interval Leisure Group, Inc.",IILG,0
+1366,"Internet Initiative Japan, Inc.",IIJI,0
+1363,iGATE Corporation,IGTE,0
+1359,InfoSonics Corp,IFON,0
+1358,iShares FTSE EPRA/NAREIT North America Index Fund,IFNA,0
+1356,iShares FTSE EPRA/NAREIT Europe Index Fund,IFEU,0
+1355,iShares FTSE EPRA/NAREIT Asia Index Fund,IFAS,0
+1350,"Integrated Device Technology, Inc.",IDTI,0
+1349,"I.D. Systems, Inc.",IDSY,0
+1348,"Industrial Services of America, Inc.",IDSA,0
+1343,"Iconix Brand Group, Inc.",ICON,0
+1340,"InterCloud Systems, Inc",ICLDW,0
+1337,"Cellular Dynamics International, Inc.",ICEL,0
+1331,IBERIABANK Corporation,IBKC,0
+1329,Intervest Bancshares Corp.,IBCA,0
+1326,IAC/InterActiveCorp,IACI,0
+1383,Imris Inc,IMRS,0
+1394,"Interactive Intelligence Group, Inc.",ININ,0
+1452,IXYS Corporation,IXYS,0
+1395,Innocoll AG,INNL,0
+1444,"Integrated Silicon Solution, Inc.",ISSI,0
+1442,"Isramco, Inc.",ISRL,0
+1440,"Image Sensing Systems, Inc.",ISNS,0
+1439,SLM Corporation,ISM,0
+1437,"Isis Pharmaceuticals, Inc.",ISIS,0
+1436,Intersil Corporation,ISIL,0
+1433,International Speedway Corporation,ISCA,0
+1427,"Ignite Restaurant Group, Inc.",IRG,0
+1426,Iridium Communications Inc,IRDMZ,0
+1425,Iridium Communications Inc,IRDMB,0
+1422,"Inteliquent, Inc.",IQNT,0
+1421,"Impax Laboratories, Inc.",IPXL,0
+1418,"Innophos Holdings, Inc.",IPHS,0
+1415,"IPC Healthcare, Inc.",IPCM,0
+1414,Intellipharmaceutics International Inc.,IPCI,0
+1413,Infinity Property and Casualty Corporation,IPCC,0
+1412,iPass Inc.,IPAS,0
+1409,"InnerWorkings, Inc.",INWK,0
+1406,"Intersections, Inc.",INTX,0
+1404,INTL FCStone Inc.,INTLL,0
+1403,INTL FCStone Inc.,INTL,0
+1400,"Insys Therapeutics, Inc.",INSY,0
+1398,Interphase Corporation,INPH,0
+1483,JetPay Corporation,JTPY,0
